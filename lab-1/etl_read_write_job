@@ -1,0 +1,113 @@
+import sys
+import boto3
+import time
+import pandas as pd
+import logging
+from awsglue.utils import getResolvedOptions
+from amorphicutils.common import read_param_store
+from amorphicutils.python import write
+from amorphicutils.python import read
+
+logging.basicConfig(level="INFO")
+LOGGER = logging.getLogger()
+LOGGER.setLevel(logging.INFO)
+
+
+def get_param_value(param_store_key, secure=False):
+    """Function to read parameters from parameters store"""
+    LOGGER.info(
+        "In get_param_value, Fetching values stored  in %s, IsSecure : %s",
+        param_store_key,
+        secure,
+    )
+    param_value_response = read_param_store(param_store_key, secure=secure)
+    if param_value_response["exitcode"] == 1:
+        LOGGER.error(
+            "Failed to get value for parameter {} with error {}.".format(
+                param_store_key, param_value_response["message"]
+            )
+        )
+        raise Exception(
+            "Failed to get value for parameter {} with error {}.".format(
+                param_store_key, param_value_response["message"]
+            )
+        )
+    else:
+        return param_value_response["data"]
+
+
+def main():
+    """
+    Main
+    """
+
+    LOGGER.info("In Main,")
+    # args = getResolvedOptions(sys.argv, ['JOB_NAME','environment'])
+    # print(args['environment'])
+
+    user_id = "adityabhat"  # Your Login UserId with access to write
+    
+    # Replace below if you have different Domain to to Read from
+    r_domain = "ddsbronze"
+    # Replace this if you have different Domain to write into.
+    w_domain = "ddsbronze"
+    # Replace this if you created new Dataset to Read from.
+    r_dataset = f"dds_client_services_{user_id}" 
+    # Replace this if you created new Dataset to write into.
+    w_dataset = f"output_data_{user_id}" 
+
+
+    lz_bucket = get_param_value(param_store_key="SYSTEM.S3BUCKET.LZ")
+    dlz_bucket = get_param_value(param_store_key="SYSTEM.S3BUCKET.DLZ")
+
+    # Read dataset
+    LOGGER.info("In Main, Reading Dataset")
+
+    # Instantiate Reader and Writer Class
+    amporphic_reader = read.Read(dlz_bucket)
+    amorphic_writer = write.Write(lz_bucket)
+
+    response = amporphic_reader.read_csv_data(r_domain, r_dataset, header=True)
+    print(response)
+    if response["exitcode"] == 0:
+        LOGGER.info("Successfully Read Data")
+        df_data = response["data"]
+    else:
+        raise Exception(
+            "Error while reading data from {} .ERROR:{}".format(
+                r_dataset, response["message"]
+            )
+        )
+
+    # Transform Gender column
+    LOGGER.info("Transforming Gender column values...")
+    gender_mapping = {
+        "Male": "M",
+        "Female": "F",
+        "Non-Binary": "O"
+    }
+    df_data["Gender"] = df_data["Gender"].replace(gender_mapping)
+
+    df_data.head(5)
+    print("Input Total Record Count", df_data.count())
+
+
+    # Write to Dataset
+    response = amorphic_writer.write_csv_data(
+        df_data, w_domain, w_dataset, user=user_id, full_reload=True
+    )
+    # print(response)
+    if response["exitcode"] == 0:
+        LOGGER.info("In Main, Successfully wrote data to %s dataset ....", w_dataset)
+    else:
+        raise Exception(
+            "Error writing data to %s dataset .ERROR: %s",
+            w_dataset,
+            response["message"],
+        )
+
+    print("End of Script")
+
+
+if __name__ == "__main__":
+    main()
