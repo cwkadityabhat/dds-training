@@ -1,0 +1,1001 @@
+ClientID,Region,Age,Gender,DisabilityType,ServiceType,ServiceProvider,StartDate,EndDate,AnnualCostUSD,FundingSource,ServiceStatus
+CLT0000,Central Valley,18,Female,Intellectual Disability,Day Program,ABC Care Services,2022-12-02,2022-12-13,38689.46,Other,Completed
+CLT0001,Central Valley,36,Female,Cerebral Palsy,Transportation,Safe Haven Homes,2024-05-08,2024-11-13,16520.18,Federal,Completed
+CLT0002,Central Valley,65,Non-Binary,Down Syndrome,Transportation,MobilityX,2023-06-28,2023-07-18,36916.63,Federal,Completed
+CLT0003,Orange County,34,Female,Autism,Transportation,Sunrise Support,2024-10-03,2025-02-06,23799.26,Medicaid,Active
+CLT0004,Los Angeles,28,Female,Down Syndrome,Residential,MobilityX,2023-06-03,2023-06-05,39647,Federal,Completed
+CLT0005,Central Valley,27,Female,Intellectual Disability,Transportation,Sunrise Support,2022-09-17,2022-10-21,52265.65,State,Completed
+CLT0006,Los Angeles,29,Female,Intellectual Disability,Residential,MobilityX,2023-05-27,2024-02-05,48246.93,Medicaid,Paused
+CLT0007,Los Angeles,8,Male,Intellectual Disability,Residential,Safe Haven Homes,2025-03-31,2025-06-07,16294.98,Other,Completed
+CLT0008,North Bay,49,Female,Autism,Residential,MobilityX,2024-10-08,2024-11-01,15619.69,Medicaid,Active
+CLT0009,North Bay,60,Non-Binary,Down Syndrome,Transportation,Safe Haven Homes,2024-01-30,2024-12-13,25894.35,Other,Paused
+CLT0010,Orange County,34,Male,Cerebral Palsy,Transportation,Sunrise Support,2025-03-27,2025-04-11,48394.38,Federal,Active
+CLT0011,San Diego,49,Female,Cerebral Palsy,Day Program,LifeCare Homes,2022-08-27,2023-08-12,53005.82,State,Completed
+CLT0012,Los Angeles,19,Female,Autism,Transportation,LifeCare Homes,2022-08-28,2022-09-10,40280.9,Federal,Completed
+CLT0013,Central Valley,6,Female,Cerebral Palsy,Day Program,MobilityX,2024-12-11,2025-02-10,13064.11,Federal,Active
+CLT0014,Central Valley,24,Female,Down Syndrome,Day Program,Sunrise Support,2024-09-14,2024-12-09,38630.41,Medicaid,Paused
+CLT0015,Los Angeles,12,Non-Binary,Intellectual Disability,Residential,Safe Haven Homes,2023-08-23,2024-05-14,46269.81,Other,Active
+CLT0016,San Diego,22,Male,Autism,Day Program,ABC Care Services,2025-02-03,2025-05-25,56821.48,Federal,Paused
+CLT0017,San Diego,37,Male,Cerebral Palsy,Day Program,MobilityX,2023-05-28,2023-12-13,46739.2,Medicaid,Active
+CLT0018,Los Angeles,55,Non-Binary,Intellectual Disability,Day Program,LifeCare Homes,2024-06-23,2024-06-27,40241.81,Other,Active
+CLT0019,Central Valley,49,Male,Down Syndrome,Transportation,Safe Haven Homes,2023-05-08,2023-07-03,49369.86,Federal,Completed
+CLT0020,Orange County,34,Non-Binary,Intellectual Disability,Transportation,ABC Care Services,2023-05-19,2024-04-22,45708.8,Other,Completed
+CLT0021,Orange County,48,Female,Down Syndrome,Transportation,LifeCare Homes,2024-11-24,2025-11-07,19198.52,Other,Active
+CLT0022,North Bay,48,Male,Cerebral Palsy,Day Program,LifeCare Homes,2023-04-06,2023-07-27,30232.83,Other,Completed
+CLT0023,Central Valley,41,Non-Binary,Intellectual Disability,Transportation,LifeCare Homes,2023-09-27,2023-10-03,53334.49,State,Paused
+CLT0024,Orange County,36,Male,Intellectual Disability,Day Program,MobilityX,2023-05-14,2023-09-23,51539.81,Federal,Active
+CLT0025,North Bay,20,Male,Cerebral Palsy,Transportation,MobilityX,2024-06-05,2024-09-08,49645.4,Other,Completed
+CLT0026,Los Angeles,36,Male,Cerebral Palsy,Transportation,Safe Haven Homes,2024-10-20,2025-08-07,39799.37,State,Paused
+CLT0027,Los Angeles,15,Male,Cerebral Palsy,Residential,Sunrise Support,2024-09-08,2025-07-03,49685.48,Other,Paused
+CLT0028,Los Angeles,17,Female,Cerebral Palsy,Transportation,Safe Haven Homes,2023-10-20,2024-04-11,36298.26,Other,Paused
+CLT0029,Los Angeles,41,Non-Binary,Down Syndrome,Transportation,Safe Haven Homes,2022-06-14,2023-01-21,11347.22,State,Completed
+CLT0030,Orange County,13,Female,Down Syndrome,Day Program,Sunrise Support,2025-03-11,2025-10-23,42242.4,Federal,Paused
+CLT0031,Orange County,20,Non-Binary,Down Syndrome,Day Program,Sunrise Support,2024-06-23,2025-03-26,10157.09,Other,Paused
+CLT0032,Los Angeles,18,Female,Autism,Residential,LifeCare Homes,2025-03-02,2025-12-09,58312.44,Other,Completed
+CLT0033,Central Valley,18,Non-Binary,Autism,Residential,Safe Haven Homes,2024-04-19,2024-09-24,16446.86,Other,Paused
+CLT0034,Orange County,61,Male,Autism,Residential,ABC Care Services,2023-12-17,2024-09-26,40436.43,State,Paused
+CLT0035,San Diego,43,Male,Down Syndrome,Residential,Sunrise Support,2023-04-24,2023-07-05,39803.67,Medicaid,Completed
+CLT0036,Central Valley,42,Non-Binary,Autism,Residential,Sunrise Support,2025-03-25,2025-08-26,40427.21,Medicaid,Completed
+CLT0037,San Diego,12,Male,Autism,Day Program,LifeCare Homes,2024-01-02,2024-07-24,11693.87,Other,Active
+CLT0038,Orange County,17,Male,Down Syndrome,Residential,LifeCare Homes,2022-08-06,2023-03-06,36549.5,Other,Active
+CLT0039,Los Angeles,39,Non-Binary,Autism,Transportation,ABC Care Services,2024-01-07,2024-10-15,27378.09,Other,Paused
+CLT0040,Orange County,5,Non-Binary,Autism,Day Program,Sunrise Support,2023-12-15,2024-08-28,6295.81,Federal,Completed
+CLT0041,Los Angeles,11,Female,Cerebral Palsy,Residential,Safe Haven Homes,2022-07-20,2022-07-20,5962.02,Other,Completed
+CLT0042,San Diego,12,Male,Autism,Residential,MobilityX,2024-05-26,2024-07-03,34107.19,Medicaid,Completed
+CLT0043,Central Valley,10,Female,Cerebral Palsy,Residential,MobilityX,2023-02-25,2023-09-18,49196.04,Federal,Active
+CLT0044,Orange County,64,Female,Cerebral Palsy,Transportation,MobilityX,2025-01-03,2025-12-08,11655.39,Medicaid,Active
+CLT0045,Orange County,28,Male,Intellectual Disability,Transportation,ABC Care Services,2023-01-06,2023-04-27,50511.76,Other,Paused
+CLT0046,North Bay,62,Female,Down Syndrome,Transportation,Safe Haven Homes,2024-12-02,2025-10-30,27902.5,Medicaid,Completed
+CLT0047,San Diego,18,Non-Binary,Down Syndrome,Residential,MobilityX,2022-07-05,2023-06-27,25361.8,Other,Completed
+CLT0048,Central Valley,19,Non-Binary,Autism,Transportation,Sunrise Support,2023-04-26,2024-03-19,26898.81,Other,Completed
+CLT0049,Los Angeles,15,Male,Autism,Residential,Sunrise Support,2024-10-26,2025-10-10,46407.94,State,Active
+CLT0050,San Diego,45,Male,Cerebral Palsy,Day Program,MobilityX,2023-02-06,2023-07-15,25988.58,Federal,Completed
+CLT0051,Central Valley,30,Male,Intellectual Disability,Transportation,Safe Haven Homes,2024-09-22,2024-09-24,21202.38,Medicaid,Active
+CLT0052,Orange County,51,Non-Binary,Cerebral Palsy,Transportation,LifeCare Homes,2024-01-26,2024-09-20,57263.64,State,Active
+CLT0053,North Bay,42,Non-Binary,Down Syndrome,Residential,Safe Haven Homes,2025-04-23,2025-07-03,58939.61,Other,Active
+CLT0054,Orange County,65,Non-Binary,Intellectual Disability,Residential,Sunrise Support,2023-09-04,2024-03-31,18274.05,Federal,Paused
+CLT0055,Orange County,10,Female,Cerebral Palsy,Residential,ABC Care Services,2022-11-20,2023-03-17,39033.12,Other,Active
+CLT0056,Orange County,47,Non-Binary,Autism,Day Program,LifeCare Homes,2023-08-12,2024-07-28,22320.41,Medicaid,Completed
+CLT0057,San Diego,31,Female,Down Syndrome,Transportation,LifeCare Homes,2024-04-06,2024-08-16,56916.88,Federal,Paused
+CLT0058,Los Angeles,17,Male,Autism,Day Program,Safe Haven Homes,2023-09-10,2024-05-11,35528.94,State,Active
+CLT0059,Los Angeles,55,Female,Intellectual Disability,Residential,ABC Care Services,2022-08-26,2023-01-23,52262.38,Other,Active
+CLT0060,Los Angeles,21,Female,Down Syndrome,Transportation,Safe Haven Homes,2024-11-08,2024-12-26,4462.25,Federal,Active
+CLT0061,Los Angeles,61,Female,Down Syndrome,Transportation,ABC Care Services,2023-01-04,2024-01-01,44899.98,Medicaid,Active
+CLT0062,Orange County,27,Non-Binary,Cerebral Palsy,Transportation,Sunrise Support,2025-03-11,2026-01-12,8824.47,Federal,Active
+CLT0063,San Diego,34,Female,Down Syndrome,Day Program,LifeCare Homes,2025-01-09,2025-05-16,31643.51,State,Active
+CLT0064,San Diego,12,Male,Intellectual Disability,Transportation,MobilityX,2022-11-03,2023-10-28,9701.44,Federal,Active
+CLT0065,Orange County,45,Male,Down Syndrome,Transportation,ABC Care Services,2025-04-18,2026-04-14,59061.37,Federal,Paused
+CLT0066,North Bay,44,Non-Binary,Intellectual Disability,Day Program,MobilityX,2022-07-14,2023-03-04,37677.49,State,Active
+CLT0067,North Bay,58,Non-Binary,Cerebral Palsy,Residential,MobilityX,2022-06-16,2022-12-09,33256.84,State,Active
+CLT0068,Central Valley,16,Male,Cerebral Palsy,Residential,LifeCare Homes,2023-07-10,2023-12-02,58493.37,Other,Completed
+CLT0069,Orange County,23,Male,Autism,Residential,MobilityX,2023-02-03,2023-09-22,32471.04,Medicaid,Completed
+CLT0070,Orange County,60,Non-Binary,Down Syndrome,Residential,MobilityX,2023-04-08,2023-04-17,10269.42,Federal,Completed
+CLT0071,Los Angeles,13,Female,Down Syndrome,Day Program,MobilityX,2023-02-21,2023-06-09,28995.39,Medicaid,Paused
+CLT0072,San Diego,29,Non-Binary,Intellectual Disability,Transportation,LifeCare Homes,2022-08-17,2023-04-23,54247.2,State,Completed
+CLT0073,San Diego,12,Male,Autism,Day Program,Sunrise Support,2023-04-02,2023-04-16,55778.5,Federal,Active
+CLT0074,Los Angeles,17,Male,Down Syndrome,Day Program,Safe Haven Homes,2025-01-16,2026-01-03,4512.73,State,Paused
+CLT0075,San Diego,4,Female,Down Syndrome,Transportation,ABC Care Services,2023-01-09,2023-02-18,31327.69,State,Active
+CLT0076,Orange County,41,Non-Binary,Down Syndrome,Transportation,Sunrise Support,2024-09-27,2025-04-26,46324.59,Other,Active
+CLT0077,Orange County,34,Female,Intellectual Disability,Day Program,MobilityX,2022-06-19,2022-08-27,14386.91,Other,Active
+CLT0078,Central Valley,7,Male,Autism,Day Program,Safe Haven Homes,2022-12-18,2023-01-29,4092.98,State,Active
+CLT0079,San Diego,24,Female,Cerebral Palsy,Residential,MobilityX,2024-10-19,2025-08-21,10350.85,State,Active
+CLT0080,San Diego,7,Non-Binary,Intellectual Disability,Transportation,ABC Care Services,2024-12-28,2025-04-18,54083.43,Federal,Completed
+CLT0081,Orange County,57,Female,Intellectual Disability,Transportation,Safe Haven Homes,2022-08-17,2023-07-08,3268.82,Federal,Active
+CLT0082,San Diego,23,Female,Down Syndrome,Residential,Safe Haven Homes,2024-10-18,2025-02-18,24379.1,Other,Completed
+CLT0083,San Diego,3,Female,Intellectual Disability,Transportation,Sunrise Support,2023-06-08,2024-05-16,17571.18,Medicaid,Completed
+CLT0084,Orange County,41,Non-Binary,Intellectual Disability,Day Program,Safe Haven Homes,2023-04-02,2024-01-31,51120.32,State,Paused
+CLT0085,Los Angeles,9,Female,Down Syndrome,Residential,Sunrise Support,2023-07-20,2024-01-18,51389.79,State,Active
+CLT0086,North Bay,47,Non-Binary,Down Syndrome,Day Program,Sunrise Support,2023-02-09,2023-10-25,25953.38,Medicaid,Active
+CLT0087,North Bay,7,Male,Intellectual Disability,Residential,Safe Haven Homes,2023-03-04,2023-04-16,5055.07,State,Active
+CLT0088,Los Angeles,31,Female,Intellectual Disability,Day Program,ABC Care Services,2024-12-17,2025-12-04,11604.61,Federal,Completed
+CLT0089,Central Valley,35,Female,Cerebral Palsy,Residential,Sunrise Support,2024-12-29,2025-07-02,28508.04,Federal,Completed
+CLT0090,North Bay,5,Female,Down Syndrome,Residential,ABC Care Services,2024-05-16,2024-08-23,13283.15,Other,Paused
+CLT0091,Orange County,23,Female,Cerebral Palsy,Residential,Sunrise Support,2024-08-28,2025-07-03,51740.71,Medicaid,Completed
+CLT0092,Orange County,64,Male,Autism,Transportation,Safe Haven Homes,2023-08-22,2023-09-23,16957.75,Medicaid,Completed
+CLT0093,North Bay,4,Female,Autism,Residential,Safe Haven Homes,2025-05-08,2026-02-19,24385.16,Medicaid,Paused
+CLT0094,North Bay,14,Non-Binary,Intellectual Disability,Residential,MobilityX,2024-05-02,2024-12-20,35288.78,Other,Completed
+CLT0095,Central Valley,22,Male,Autism,Residential,Safe Haven Homes,2022-12-22,2023-02-18,27867.11,Medicaid,Active
+CLT0096,North Bay,3,Non-Binary,Cerebral Palsy,Residential,Safe Haven Homes,2023-03-08,2023-06-14,45667.13,Federal,Paused
+CLT0097,Central Valley,55,Non-Binary,Cerebral Palsy,Residential,LifeCare Homes,2024-06-05,2025-02-06,35283.99,Medicaid,Completed
+CLT0098,Orange County,35,Non-Binary,Autism,Day Program,Sunrise Support,2023-01-06,2023-07-06,48529.16,Medicaid,Active
+CLT0099,North Bay,21,Male,Down Syndrome,Residential,Sunrise Support,2024-05-14,2024-09-16,7379.78,Federal,Active
+CLT0100,North Bay,56,Female,Autism,Day Program,ABC Care Services,2022-06-29,2023-06-28,20090,Other,Active
+CLT0101,Central Valley,8,Male,Down Syndrome,Day Program,LifeCare Homes,2023-06-03,2023-10-29,6999.23,Federal,Paused
+CLT0102,Central Valley,6,Non-Binary,Cerebral Palsy,Residential,Sunrise Support,2024-12-08,2025-03-20,42959.46,Medicaid,Active
+CLT0103,Los Angeles,63,Male,Cerebral Palsy,Residential,LifeCare Homes,2022-06-11,2022-12-28,27531.4,State,Completed
+CLT0104,Los Angeles,12,Non-Binary,Autism,Day Program,MobilityX,2022-11-01,2023-03-19,15897.5,Medicaid,Active
+CLT0105,Los Angeles,49,Non-Binary,Autism,Day Program,MobilityX,2023-04-10,2023-05-07,18091.86,Medicaid,Active
+CLT0106,San Diego,56,Male,Cerebral Palsy,Transportation,ABC Care Services,2023-04-08,2024-01-12,33849.28,Medicaid,Completed
+CLT0107,North Bay,7,Female,Intellectual Disability,Transportation,Sunrise Support,2023-04-07,2023-10-14,59806.28,State,Paused
+CLT0108,Los Angeles,31,Female,Intellectual Disability,Day Program,ABC Care Services,2024-11-30,2025-05-07,42596.48,Medicaid,Completed
+CLT0109,Central Valley,44,Female,Down Syndrome,Transportation,Safe Haven Homes,2024-07-10,2025-05-22,26538.43,Other,Completed
+CLT0110,San Diego,32,Male,Cerebral Palsy,Day Program,LifeCare Homes,2023-09-18,2024-09-09,18735.41,Other,Completed
+CLT0111,Orange County,3,Female,Cerebral Palsy,Residential,ABC Care Services,2025-05-03,2025-05-18,28742.33,Federal,Active
+CLT0112,Central Valley,11,Non-Binary,Intellectual Disability,Day Program,Sunrise Support,2023-10-05,2024-01-14,51235.09,State,Paused
+CLT0113,Los Angeles,56,Male,Down Syndrome,Day Program,Safe Haven Homes,2025-04-15,2025-09-22,17343.75,Other,Paused
+CLT0114,Los Angeles,23,Non-Binary,Cerebral Palsy,Residential,ABC Care Services,2022-10-30,2023-10-04,36908.29,Medicaid,Completed
+CLT0115,San Diego,48,Female,Intellectual Disability,Day Program,ABC Care Services,2022-12-13,2022-12-27,14698.15,Other,Paused
+CLT0116,San Diego,20,Non-Binary,Autism,Day Program,MobilityX,2022-09-21,2023-06-23,36658.32,Federal,Completed
+CLT0117,San Diego,22,Non-Binary,Intellectual Disability,Residential,MobilityX,2024-08-06,2025-07-29,59468.4,State,Paused
+CLT0118,North Bay,13,Male,Down Syndrome,Day Program,ABC Care Services,2024-06-17,2024-12-15,53547.73,State,Completed
+CLT0119,Orange County,61,Non-Binary,Down Syndrome,Transportation,ABC Care Services,2022-06-12,2023-05-14,15341.07,Medicaid,Paused
+CLT0120,North Bay,51,Male,Autism,Residential,ABC Care Services,2023-01-03,2023-06-21,48266.75,Medicaid,Completed
+CLT0121,Los Angeles,20,Non-Binary,Cerebral Palsy,Residential,LifeCare Homes,2023-07-09,2023-07-21,41716.56,State,Paused
+CLT0122,San Diego,50,Non-Binary,Cerebral Palsy,Day Program,ABC Care Services,2022-09-20,2022-10-27,9035.36,Federal,Paused
+CLT0123,San Diego,23,Non-Binary,Autism,Residential,Safe Haven Homes,2024-01-27,2024-11-20,55120.32,State,Completed
+CLT0124,Central Valley,23,Male,Down Syndrome,Transportation,Safe Haven Homes,2024-11-05,2025-08-02,5026.4,Other,Paused
+CLT0125,Central Valley,50,Non-Binary,Cerebral Palsy,Residential,LifeCare Homes,2025-02-12,2025-10-18,24173.02,State,Paused
+CLT0126,Orange County,10,Female,Autism,Day Program,LifeCare Homes,2022-07-06,2022-11-22,32348.46,Other,Active
+CLT0127,North Bay,9,Non-Binary,Intellectual Disability,Residential,Safe Haven Homes,2024-03-23,2024-12-18,59869.72,Medicaid,Active
+CLT0128,Los Angeles,40,Female,Down Syndrome,Residential,ABC Care Services,2022-09-13,2022-12-30,34207.74,Medicaid,Active
+CLT0129,Orange County,52,Male,Cerebral Palsy,Residential,LifeCare Homes,2023-07-15,2024-04-23,25153.33,Federal,Completed
+CLT0130,San Diego,22,Female,Down Syndrome,Residential,Safe Haven Homes,2024-11-25,2025-02-02,45243.9,Medicaid,Paused
+CLT0131,San Diego,11,Non-Binary,Intellectual Disability,Transportation,MobilityX,2023-07-31,2024-03-28,6804.53,Other,Completed
+CLT0132,Los Angeles,28,Male,Cerebral Palsy,Transportation,Safe Haven Homes,2025-01-11,2025-04-21,45199.84,Federal,Active
+CLT0133,San Diego,59,Female,Intellectual Disability,Transportation,ABC Care Services,2022-09-17,2022-11-08,47513.65,Federal,Active
+CLT0134,North Bay,60,Non-Binary,Autism,Transportation,Safe Haven Homes,2024-01-04,2024-08-12,29848.84,Other,Completed
+CLT0135,Orange County,41,Female,Intellectual Disability,Residential,ABC Care Services,2025-03-20,2025-12-25,50877.91,Medicaid,Paused
+CLT0136,Orange County,43,Male,Cerebral Palsy,Residential,ABC Care Services,2022-07-16,2022-09-20,3329.36,State,Active
+CLT0137,San Diego,17,Non-Binary,Intellectual Disability,Transportation,MobilityX,2024-03-28,2024-08-30,12902.36,State,Paused
+CLT0138,San Diego,54,Female,Cerebral Palsy,Transportation,Safe Haven Homes,2022-11-29,2023-04-07,45008.94,Medicaid,Completed
+CLT0139,Central Valley,23,Male,Cerebral Palsy,Transportation,ABC Care Services,2023-01-30,2023-05-26,13724.83,Federal,Completed
+CLT0140,Central Valley,14,Non-Binary,Cerebral Palsy,Day Program,LifeCare Homes,2024-06-23,2025-05-06,33608.48,Medicaid,Paused
+CLT0141,Central Valley,57,Male,Down Syndrome,Transportation,ABC Care Services,2023-06-27,2023-11-09,31104.54,Other,Active
+CLT0142,North Bay,36,Non-Binary,Cerebral Palsy,Transportation,MobilityX,2023-10-09,2024-02-17,54155.67,Federal,Active
+CLT0143,San Diego,18,Male,Down Syndrome,Residential,Safe Haven Homes,2022-11-13,2023-06-30,47498.49,Federal,Completed
+CLT0144,San Diego,51,Female,Cerebral Palsy,Day Program,Safe Haven Homes,2025-02-13,2025-09-21,40539.16,State,Completed
+CLT0145,North Bay,50,Non-Binary,Intellectual Disability,Transportation,ABC Care Services,2024-11-14,2025-01-26,7140.36,Medicaid,Active
+CLT0146,Los Angeles,40,Male,Intellectual Disability,Residential,LifeCare Homes,2024-01-25,2024-02-14,58892.55,State,Completed
+CLT0147,Los Angeles,48,Male,Cerebral Palsy,Day Program,Safe Haven Homes,2023-11-05,2023-11-20,38467.36,Medicaid,Paused
+CLT0148,Orange County,27,Male,Intellectual Disability,Transportation,LifeCare Homes,2025-04-18,2025-10-23,55889.74,State,Paused
+CLT0149,Central Valley,39,Male,Autism,Transportation,Sunrise Support,2023-04-28,2024-04-17,8534.68,Federal,Paused
+CLT0150,Orange County,6,Male,Down Syndrome,Residential,Sunrise Support,2024-10-20,2025-04-27,22473.29,Other,Active
+CLT0151,Los Angeles,27,Female,Down Syndrome,Residential,ABC Care Services,2023-01-21,2023-11-18,20183.47,Federal,Active
+CLT0152,Orange County,51,Non-Binary,Cerebral Palsy,Residential,LifeCare Homes,2022-10-14,2023-06-30,11930.81,Federal,Paused
+CLT0153,San Diego,60,Female,Down Syndrome,Transportation,MobilityX,2024-06-04,2024-08-03,14515.88,State,Paused
+CLT0154,San Diego,20,Non-Binary,Autism,Transportation,MobilityX,2024-12-20,2025-01-03,5035.05,Federal,Completed
+CLT0155,Los Angeles,14,Female,Down Syndrome,Transportation,MobilityX,2022-11-02,2023-07-12,45601.32,State,Paused
+CLT0156,Central Valley,33,Male,Autism,Residential,Safe Haven Homes,2024-09-08,2025-07-18,13820.68,State,Completed
+CLT0157,Central Valley,11,Male,Down Syndrome,Residential,ABC Care Services,2024-09-18,2025-08-09,15271.44,State,Active
+CLT0158,Central Valley,24,Female,Down Syndrome,Transportation,ABC Care Services,2024-07-18,2024-12-18,38609.34,Federal,Paused
+CLT0159,Orange County,33,Non-Binary,Autism,Transportation,MobilityX,2024-12-06,2025-09-26,35596.44,State,Completed
+CLT0160,Orange County,12,Non-Binary,Intellectual Disability,Transportation,MobilityX,2024-09-04,2024-10-16,44723.51,Other,Paused
+CLT0161,North Bay,13,Non-Binary,Down Syndrome,Transportation,MobilityX,2023-10-09,2024-07-19,20606.84,Federal,Active
+CLT0162,North Bay,6,Male,Autism,Day Program,ABC Care Services,2023-06-30,2023-07-25,39964.34,State,Active
+CLT0163,Orange County,65,Non-Binary,Autism,Day Program,ABC Care Services,2022-12-17,2023-01-30,8817.82,Medicaid,Completed
+CLT0164,Los Angeles,11,Non-Binary,Cerebral Palsy,Residential,ABC Care Services,2024-03-28,2024-07-12,31803.24,State,Paused
+CLT0165,Central Valley,38,Male,Intellectual Disability,Residential,Safe Haven Homes,2023-01-16,2023-10-13,23281.52,State,Paused
+CLT0166,Orange County,33,Male,Autism,Day Program,Sunrise Support,2023-04-13,2024-01-07,28084,Other,Active
+CLT0167,North Bay,45,Male,Autism,Residential,Safe Haven Homes,2022-06-08,2022-09-11,8254.91,Medicaid,Paused
+CLT0168,Central Valley,15,Non-Binary,Down Syndrome,Day Program,MobilityX,2024-04-02,2024-10-12,36585.39,Federal,Paused
+CLT0169,Los Angeles,30,Female,Autism,Residential,MobilityX,2022-06-13,2022-09-07,19014.38,State,Completed
+CLT0170,San Diego,21,Non-Binary,Down Syndrome,Day Program,LifeCare Homes,2023-08-05,2024-02-15,30087.38,State,Paused
+CLT0171,Los Angeles,62,Female,Autism,Transportation,LifeCare Homes,2024-01-10,2024-10-25,59717.88,State,Paused
+CLT0172,Central Valley,23,Female,Autism,Residential,Safe Haven Homes,2023-02-15,2023-12-16,58264.25,State,Paused
+CLT0173,Central Valley,32,Male,Cerebral Palsy,Day Program,Sunrise Support,2023-06-15,2023-08-29,26211.63,Federal,Active
+CLT0174,San Diego,13,Female,Autism,Transportation,Sunrise Support,2022-11-20,2023-02-24,27388.97,Federal,Paused
+CLT0175,Los Angeles,18,Non-Binary,Cerebral Palsy,Transportation,MobilityX,2024-06-26,2025-02-04,15331.3,Federal,Completed
+CLT0176,Orange County,50,Female,Autism,Residential,Safe Haven Homes,2024-06-03,2024-06-29,51300.15,Other,Active
+CLT0177,North Bay,63,Non-Binary,Down Syndrome,Residential,ABC Care Services,2025-05-19,2025-07-05,46807.02,Federal,Completed
+CLT0178,Los Angeles,40,Male,Autism,Day Program,Sunrise Support,2024-08-07,2024-10-15,23006.1,Medicaid,Active
+CLT0179,San Diego,8,Non-Binary,Autism,Transportation,Safe Haven Homes,2024-11-06,2025-05-26,43097.4,Federal,Paused
+CLT0180,North Bay,56,Female,Intellectual Disability,Residential,Sunrise Support,2022-11-27,2023-07-02,12561.26,Medicaid,Paused
+CLT0181,Central Valley,39,Female,Down Syndrome,Residential,LifeCare Homes,2024-01-28,2024-05-18,26137.64,Federal,Active
+CLT0182,San Diego,33,Male,Intellectual Disability,Day Program,ABC Care Services,2023-10-12,2023-12-12,46670.19,State,Paused
+CLT0183,Los Angeles,59,Non-Binary,Down Syndrome,Day Program,LifeCare Homes,2024-06-18,2025-04-04,5494.85,Federal,Paused
+CLT0184,North Bay,9,Female,Intellectual Disability,Day Program,MobilityX,2024-08-03,2024-12-11,37279.95,State,Completed
+CLT0185,North Bay,24,Female,Intellectual Disability,Transportation,LifeCare Homes,2023-06-29,2023-10-31,56639.73,State,Active
+CLT0186,Orange County,61,Non-Binary,Cerebral Palsy,Transportation,MobilityX,2024-07-31,2024-08-12,50050.8,Other,Paused
+CLT0187,Orange County,59,Non-Binary,Cerebral Palsy,Transportation,ABC Care Services,2024-05-23,2024-09-27,23480.04,Federal,Active
+CLT0188,Central Valley,24,Non-Binary,Autism,Day Program,Safe Haven Homes,2023-10-10,2024-04-15,56435.31,Other,Active
+CLT0189,Los Angeles,33,Non-Binary,Autism,Day Program,MobilityX,2024-09-05,2024-11-29,15539.4,Medicaid,Completed
+CLT0190,San Diego,3,Male,Intellectual Disability,Residential,Sunrise Support,2023-09-24,2024-02-11,49412.16,State,Paused
+CLT0191,Central Valley,7,Female,Down Syndrome,Day Program,MobilityX,2025-02-07,2025-02-19,23190.25,Medicaid,Completed
+CLT0192,Central Valley,63,Female,Intellectual Disability,Residential,MobilityX,2023-01-24,2023-04-15,3109.57,Other,Completed
+CLT0193,Los Angeles,65,Non-Binary,Intellectual Disability,Residential,Sunrise Support,2023-06-16,2023-07-20,27937.75,Federal,Active
+CLT0194,Los Angeles,3,Non-Binary,Intellectual Disability,Transportation,LifeCare Homes,2023-03-04,2023-03-29,43551.56,Other,Completed
+CLT0195,Central Valley,59,Female,Autism,Residential,Sunrise Support,2025-03-22,2025-04-14,47537.1,Other,Completed
+CLT0196,North Bay,17,Female,Intellectual Disability,Day Program,Sunrise Support,2024-02-25,2024-06-13,12765.35,Other,Paused
+CLT0197,San Diego,10,Female,Down Syndrome,Day Program,MobilityX,2024-06-14,2024-09-03,7782.91,Other,Completed
+CLT0198,Central Valley,26,Male,Down Syndrome,Residential,MobilityX,2024-04-02,2025-03-29,12263.8,Other,Completed
+CLT0199,Central Valley,64,Male,Cerebral Palsy,Day Program,Sunrise Support,2022-05-26,2022-09-19,22922.95,State,Active
+CLT0200,San Diego,33,Female,Intellectual Disability,Residential,ABC Care Services,2022-10-05,2022-12-22,15416.66,Other,Active
+CLT0201,Los Angeles,4,Non-Binary,Down Syndrome,Residential,LifeCare Homes,2025-05-06,2026-05-01,25832.29,State,Paused
+CLT0202,Central Valley,55,Non-Binary,Cerebral Palsy,Transportation,Sunrise Support,2023-08-22,2024-01-04,24988.31,Federal,Active
+CLT0203,North Bay,50,Male,Down Syndrome,Residential,MobilityX,2022-08-08,2023-06-26,48596.63,State,Active
+CLT0204,Central Valley,61,Female,Cerebral Palsy,Residential,LifeCare Homes,2025-02-09,2026-01-28,43031.95,State,Active
+CLT0205,San Diego,16,Female,Autism,Residential,Sunrise Support,2022-06-10,2023-01-12,28170.48,State,Active
+CLT0206,North Bay,44,Female,Intellectual Disability,Day Program,MobilityX,2023-03-20,2024-01-04,37546.17,Federal,Completed
+CLT0207,Los Angeles,49,Non-Binary,Cerebral Palsy,Transportation,MobilityX,2024-03-07,2024-08-26,37653.81,Federal,Completed
+CLT0208,Los Angeles,41,Female,Down Syndrome,Transportation,LifeCare Homes,2024-04-24,2024-11-04,4631.27,Other,Completed
+CLT0209,Orange County,58,Male,Cerebral Palsy,Residential,Safe Haven Homes,2022-07-05,2022-12-14,35319.72,Federal,Paused
+CLT0210,Orange County,50,Female,Cerebral Palsy,Residential,ABC Care Services,2025-01-03,2025-07-05,42952.1,Other,Paused
+CLT0211,Orange County,35,Female,Down Syndrome,Transportation,Safe Haven Homes,2023-04-20,2024-01-22,47486.44,Medicaid,Active
+CLT0212,Central Valley,53,Female,Down Syndrome,Day Program,MobilityX,2023-05-15,2023-07-25,39545.85,State,Active
+CLT0213,North Bay,9,Male,Cerebral Palsy,Transportation,ABC Care Services,2024-07-03,2024-09-22,26907.79,Other,Active
+CLT0214,Central Valley,10,Male,Down Syndrome,Transportation,ABC Care Services,2025-01-29,2025-10-04,47287.67,State,Active
+CLT0215,Los Angeles,9,Non-Binary,Cerebral Palsy,Day Program,Safe Haven Homes,2025-04-10,2026-02-02,37053,Federal,Active
+CLT0216,Orange County,47,Non-Binary,Down Syndrome,Residential,Sunrise Support,2022-07-14,2023-01-05,57690.63,Medicaid,Paused
+CLT0217,North Bay,4,Male,Down Syndrome,Transportation,LifeCare Homes,2023-08-20,2023-09-04,45568.32,Federal,Completed
+CLT0218,Los Angeles,60,Non-Binary,Autism,Residential,Sunrise Support,2023-12-27,2024-11-08,23222.82,Federal,Active
+CLT0219,Los Angeles,10,Male,Intellectual Disability,Transportation,ABC Care Services,2022-07-30,2022-09-25,17378.46,Medicaid,Paused
+CLT0220,Los Angeles,60,Female,Down Syndrome,Transportation,Safe Haven Homes,2022-08-21,2023-03-19,46357.4,Other,Active
+CLT0221,Los Angeles,24,Male,Intellectual Disability,Residential,Safe Haven Homes,2024-01-18,2024-09-17,51498.05,Other,Active
+CLT0222,Orange County,20,Male,Intellectual Disability,Residential,ABC Care Services,2024-11-20,2025-01-19,40934.11,Medicaid,Completed
+CLT0223,Central Valley,18,Male,Intellectual Disability,Residential,MobilityX,2024-03-16,2024-09-14,51977.46,State,Active
+CLT0224,Orange County,30,Male,Cerebral Palsy,Day Program,MobilityX,2023-11-06,2024-08-25,3834.08,Medicaid,Completed
+CLT0225,Central Valley,29,Non-Binary,Intellectual Disability,Day Program,MobilityX,2024-06-14,2025-01-11,6760.07,State,Active
+CLT0226,Orange County,64,Female,Cerebral Palsy,Residential,LifeCare Homes,2024-03-06,2024-04-04,27511.26,State,Completed
+CLT0227,Orange County,44,Male,Autism,Day Program,LifeCare Homes,2024-10-26,2025-10-16,37663.07,Other,Paused
+CLT0228,San Diego,31,Female,Cerebral Palsy,Transportation,MobilityX,2022-08-28,2023-05-01,25500.68,State,Paused
+CLT0229,Orange County,13,Female,Cerebral Palsy,Residential,MobilityX,2025-03-05,2025-09-10,10920.72,State,Active
+CLT0230,San Diego,10,Non-Binary,Intellectual Disability,Transportation,MobilityX,2023-10-31,2024-03-08,24734.72,Federal,Active
+CLT0231,Central Valley,51,Male,Intellectual Disability,Day Program,MobilityX,2024-11-24,2025-09-09,10336.39,Medicaid,Completed
+CLT0232,San Diego,48,Non-Binary,Cerebral Palsy,Residential,Safe Haven Homes,2022-12-11,2023-11-17,3169.72,State,Active
+CLT0233,Orange County,54,Male,Intellectual Disability,Day Program,Safe Haven Homes,2024-11-24,2025-10-18,20699.8,Federal,Active
+CLT0234,Los Angeles,3,Male,Autism,Day Program,Sunrise Support,2022-11-24,2023-10-04,13377.67,Medicaid,Completed
+CLT0235,Orange County,57,Female,Autism,Day Program,Sunrise Support,2022-09-23,2023-05-08,13780.51,Federal,Paused
+CLT0236,San Diego,21,Male,Autism,Residential,MobilityX,2023-05-31,2024-04-12,10358.78,State,Completed
+CLT0237,Orange County,37,Female,Cerebral Palsy,Day Program,Sunrise Support,2024-01-26,2024-06-03,38153.64,Medicaid,Completed
+CLT0238,Central Valley,47,Male,Down Syndrome,Transportation,Safe Haven Homes,2024-02-19,2024-09-08,57267.47,State,Completed
+CLT0239,Central Valley,53,Female,Down Syndrome,Transportation,ABC Care Services,2023-03-03,2023-05-19,43334.54,Federal,Active
+CLT0240,Los Angeles,59,Male,Intellectual Disability,Transportation,Sunrise Support,2023-02-22,2023-04-21,20551.24,Federal,Active
+CLT0241,North Bay,41,Female,Autism,Day Program,MobilityX,2023-03-14,2023-10-24,6674.41,State,Active
+CLT0242,Orange County,21,Non-Binary,Down Syndrome,Residential,Sunrise Support,2023-02-28,2023-07-06,11307.64,State,Paused
+CLT0243,Central Valley,10,Female,Intellectual Disability,Residential,MobilityX,2022-10-26,2023-04-11,27484.43,Federal,Completed
+CLT0244,San Diego,3,Male,Intellectual Disability,Transportation,Sunrise Support,2023-11-08,2024-01-02,47467.23,Other,Paused
+CLT0245,San Diego,8,Female,Intellectual Disability,Residential,LifeCare Homes,2024-05-14,2025-04-07,29020.1,Other,Active
+CLT0246,Orange County,46,Male,Intellectual Disability,Transportation,ABC Care Services,2023-01-24,2023-05-01,9398.45,Federal,Paused
+CLT0247,Central Valley,27,Female,Autism,Transportation,Sunrise Support,2023-12-20,2024-02-28,20674.21,Other,Paused
+CLT0248,Orange County,10,Male,Down Syndrome,Transportation,Sunrise Support,2024-08-23,2025-05-22,11820.17,Medicaid,Paused
+CLT0249,North Bay,20,Non-Binary,Down Syndrome,Residential,ABC Care Services,2023-04-15,2023-06-15,38420.92,State,Active
+CLT0250,North Bay,16,Non-Binary,Down Syndrome,Transportation,ABC Care Services,2022-08-02,2023-07-23,12114.68,Medicaid,Completed
+CLT0251,North Bay,55,Non-Binary,Down Syndrome,Day Program,Sunrise Support,2025-02-01,2025-03-28,21521.23,Medicaid,Completed
+CLT0252,North Bay,56,Female,Down Syndrome,Day Program,ABC Care Services,2024-03-05,2024-10-22,28513.72,Medicaid,Active
+CLT0253,North Bay,7,Male,Down Syndrome,Transportation,Safe Haven Homes,2024-08-05,2025-07-11,18964.94,Other,Completed
+CLT0254,Central Valley,39,Male,Cerebral Palsy,Transportation,Safe Haven Homes,2024-06-16,2024-08-01,26653.32,Medicaid,Completed
+CLT0255,San Diego,12,Male,Down Syndrome,Residential,ABC Care Services,2024-10-10,2024-10-13,48112.69,Medicaid,Paused
+CLT0256,Los Angeles,46,Male,Autism,Residential,LifeCare Homes,2023-04-21,2023-10-31,17965.19,Other,Active
+CLT0257,Los Angeles,63,Female,Down Syndrome,Transportation,Safe Haven Homes,2022-07-17,2022-08-08,55758.48,Federal,Completed
+CLT0258,Orange County,62,Female,Autism,Residential,Sunrise Support,2023-12-17,2024-03-25,41683.48,Other,Completed
+CLT0259,North Bay,52,Female,Intellectual Disability,Day Program,ABC Care Services,2023-03-24,2023-04-22,23664,Federal,Active
+CLT0260,Orange County,11,Non-Binary,Intellectual Disability,Residential,ABC Care Services,2023-07-05,2023-10-25,47551.97,Other,Completed
+CLT0261,San Diego,58,Female,Down Syndrome,Transportation,ABC Care Services,2024-01-21,2024-12-19,12955.49,Federal,Completed
+CLT0262,Orange County,4,Male,Intellectual Disability,Day Program,Safe Haven Homes,2022-12-10,2023-07-06,37753.94,Other,Active
+CLT0263,Los Angeles,11,Male,Autism,Residential,Safe Haven Homes,2023-08-21,2024-04-12,29605.99,State,Paused
+CLT0264,North Bay,25,Non-Binary,Down Syndrome,Residential,LifeCare Homes,2023-08-14,2023-12-22,22529.98,State,Paused
+CLT0265,Orange County,17,Non-Binary,Cerebral Palsy,Residential,Sunrise Support,2025-05-08,2025-12-11,39712.79,Federal,Completed
+CLT0266,San Diego,33,Male,Autism,Day Program,LifeCare Homes,2025-03-22,2025-08-26,12513.48,State,Active
+CLT0267,Los Angeles,55,Male,Cerebral Palsy,Transportation,MobilityX,2022-12-03,2023-06-27,43700.47,Medicaid,Active
+CLT0268,Central Valley,33,Non-Binary,Autism,Day Program,ABC Care Services,2022-05-28,2022-10-26,37274.31,Other,Paused
+CLT0269,Orange County,41,Female,Intellectual Disability,Residential,Sunrise Support,2024-05-18,2025-03-09,19401.3,Other,Paused
+CLT0270,North Bay,3,Non-Binary,Autism,Day Program,Sunrise Support,2022-08-22,2023-08-03,19393.89,Medicaid,Active
+CLT0271,San Diego,60,Female,Intellectual Disability,Day Program,MobilityX,2023-10-22,2023-12-25,4059.34,Federal,Active
+CLT0272,Orange County,5,Non-Binary,Down Syndrome,Residential,LifeCare Homes,2022-09-16,2023-05-29,18076.34,Medicaid,Completed
+CLT0273,Orange County,21,Non-Binary,Down Syndrome,Residential,Safe Haven Homes,2022-06-16,2022-08-12,47355.27,Federal,Completed
+CLT0274,Central Valley,57,Female,Down Syndrome,Day Program,Safe Haven Homes,2023-08-11,2024-07-21,27865.32,Medicaid,Active
+CLT0275,San Diego,19,Non-Binary,Down Syndrome,Transportation,LifeCare Homes,2022-06-03,2023-05-09,43162.61,Federal,Paused
+CLT0276,North Bay,7,Male,Down Syndrome,Residential,ABC Care Services,2024-05-01,2025-02-04,34568.81,Federal,Completed
+CLT0277,Central Valley,31,Non-Binary,Autism,Residential,Sunrise Support,2024-01-30,2024-04-30,44508.25,Other,Completed
+CLT0278,Los Angeles,50,Female,Down Syndrome,Transportation,Safe Haven Homes,2024-09-03,2024-10-10,46235.99,Federal,Active
+CLT0279,Orange County,64,Female,Cerebral Palsy,Transportation,LifeCare Homes,2025-05-10,2025-06-21,59538.29,Federal,Active
+CLT0280,North Bay,26,Non-Binary,Autism,Day Program,Safe Haven Homes,2023-03-13,2023-12-10,22816.16,Federal,Completed
+CLT0281,Central Valley,15,Male,Intellectual Disability,Residential,Safe Haven Homes,2023-01-06,2023-01-15,28850.57,Federal,Active
+CLT0282,Los Angeles,25,Non-Binary,Intellectual Disability,Residential,Sunrise Support,2023-05-07,2023-05-07,46959.95,Federal,Paused
+CLT0283,Central Valley,28,Male,Down Syndrome,Residential,ABC Care Services,2023-08-19,2023-10-15,36926.79,Medicaid,Completed
+CLT0284,Los Angeles,21,Non-Binary,Intellectual Disability,Day Program,Sunrise Support,2022-10-13,2023-10-02,5039.43,State,Completed
+CLT0285,Orange County,49,Non-Binary,Autism,Residential,ABC Care Services,2023-02-17,2023-04-28,11128.9,Federal,Active
+CLT0286,San Diego,44,Female,Autism,Residential,Safe Haven Homes,2024-09-21,2025-04-16,16305.75,Federal,Paused
+CLT0287,Orange County,29,Non-Binary,Cerebral Palsy,Day Program,LifeCare Homes,2022-07-19,2023-05-11,28779.34,Federal,Paused
+CLT0288,Los Angeles,5,Non-Binary,Intellectual Disability,Day Program,Sunrise Support,2024-02-07,2024-07-28,42938.37,Federal,Active
+CLT0289,Los Angeles,5,Male,Autism,Transportation,ABC Care Services,2023-04-16,2023-09-24,16006.08,Other,Active
+CLT0290,Orange County,23,Female,Intellectual Disability,Residential,ABC Care Services,2023-04-27,2023-08-19,30883,Federal,Active
+CLT0291,Central Valley,36,Male,Intellectual Disability,Residential,MobilityX,2023-09-19,2023-10-24,35267.6,Medicaid,Active
+CLT0292,Central Valley,64,Male,Down Syndrome,Day Program,LifeCare Homes,2024-04-17,2024-07-02,29652.73,Medicaid,Active
+CLT0293,Central Valley,23,Male,Cerebral Palsy,Residential,LifeCare Homes,2023-02-16,2023-04-20,31971.65,Other,Completed
+CLT0294,Orange County,60,Female,Down Syndrome,Transportation,ABC Care Services,2022-06-29,2023-04-13,42727.32,State,Paused
+CLT0295,San Diego,32,Non-Binary,Cerebral Palsy,Transportation,Safe Haven Homes,2023-10-16,2024-09-20,53514.95,Medicaid,Paused
+CLT0296,Central Valley,52,Male,Intellectual Disability,Day Program,MobilityX,2024-12-25,2025-05-15,32541.16,Medicaid,Completed
+CLT0297,Central Valley,65,Non-Binary,Intellectual Disability,Residential,Sunrise Support,2024-01-20,2024-05-04,36221.57,Federal,Completed
+CLT0298,Los Angeles,30,Non-Binary,Autism,Day Program,Sunrise Support,2023-05-31,2023-10-11,13253.22,Other,Paused
+CLT0299,North Bay,41,Male,Cerebral Palsy,Day Program,ABC Care Services,2023-05-02,2023-06-26,46104.49,State,Paused
+CLT0300,Los Angeles,34,Female,Down Syndrome,Residential,MobilityX,2022-09-09,2022-12-14,34506.54,State,Completed
+CLT0301,San Diego,30,Male,Autism,Transportation,ABC Care Services,2022-10-23,2023-01-06,45401.23,State,Active
+CLT0302,North Bay,41,Male,Intellectual Disability,Residential,Safe Haven Homes,2025-03-01,2025-11-22,13858.33,State,Completed
+CLT0303,North Bay,32,Male,Intellectual Disability,Transportation,LifeCare Homes,2023-03-02,2023-07-30,54868.82,Medicaid,Active
+CLT0304,North Bay,53,Non-Binary,Cerebral Palsy,Transportation,LifeCare Homes,2025-01-06,2025-09-27,56161.9,Medicaid,Paused
+CLT0305,Orange County,64,Female,Autism,Transportation,LifeCare Homes,2023-02-22,2023-05-15,16258.83,Federal,Active
+CLT0306,Central Valley,52,Female,Intellectual Disability,Transportation,ABC Care Services,2023-04-08,2024-01-13,55693.65,Federal,Active
+CLT0307,Los Angeles,51,Female,Down Syndrome,Residential,ABC Care Services,2022-12-04,2023-08-27,15438.37,Medicaid,Paused
+CLT0308,Central Valley,31,Male,Cerebral Palsy,Transportation,Safe Haven Homes,2024-02-07,2024-04-30,46249.52,Federal,Completed
+CLT0309,Central Valley,26,Male,Down Syndrome,Residential,LifeCare Homes,2024-05-12,2024-10-26,51296.58,Medicaid,Paused
+CLT0310,Los Angeles,16,Female,Autism,Transportation,ABC Care Services,2022-06-22,2023-06-20,45735.19,State,Paused
+CLT0311,San Diego,28,Male,Autism,Residential,Sunrise Support,2025-01-10,2025-03-01,7266.58,Federal,Completed
+CLT0312,North Bay,4,Female,Autism,Day Program,ABC Care Services,2025-05-11,2026-04-14,6596.32,Other,Paused
+CLT0313,Central Valley,19,Male,Autism,Residential,ABC Care Services,2023-12-15,2023-12-22,27046.07,State,Completed
+CLT0314,Los Angeles,46,Female,Down Syndrome,Day Program,MobilityX,2024-09-29,2024-11-08,56610.75,Federal,Active
+CLT0315,Orange County,62,Non-Binary,Cerebral Palsy,Transportation,ABC Care Services,2023-05-22,2024-03-07,7691.11,Federal,Paused
+CLT0316,North Bay,62,Non-Binary,Down Syndrome,Day Program,MobilityX,2024-05-23,2024-12-21,23059.54,State,Completed
+CLT0317,North Bay,42,Female,Cerebral Palsy,Day Program,LifeCare Homes,2024-09-16,2025-02-27,26344.12,Medicaid,Completed
+CLT0318,Los Angeles,10,Female,Down Syndrome,Residential,Safe Haven Homes,2022-12-17,2023-04-10,34433.55,State,Paused
+CLT0319,Central Valley,34,Female,Cerebral Palsy,Transportation,MobilityX,2024-07-07,2024-11-20,12248.27,Other,Paused
+CLT0320,Orange County,13,Female,Intellectual Disability,Residential,LifeCare Homes,2022-10-14,2023-09-15,3971.66,State,Completed
+CLT0321,Central Valley,45,Non-Binary,Intellectual Disability,Transportation,Safe Haven Homes,2024-11-30,2025-01-25,27106.96,Medicaid,Paused
+CLT0322,Central Valley,40,Non-Binary,Cerebral Palsy,Day Program,ABC Care Services,2022-10-22,2022-10-31,5715.24,Federal,Completed
+CLT0323,Orange County,14,Non-Binary,Cerebral Palsy,Day Program,LifeCare Homes,2023-12-12,2024-09-15,13887.6,Federal,Completed
+CLT0324,Central Valley,7,Female,Down Syndrome,Transportation,MobilityX,2025-02-28,2025-07-20,13547.21,Medicaid,Active
+CLT0325,Orange County,23,Male,Autism,Residential,Sunrise Support,2023-02-25,2023-10-07,10338.27,Other,Paused
+CLT0326,San Diego,34,Male,Cerebral Palsy,Transportation,Sunrise Support,2024-05-24,2025-02-15,38122.11,Other,Completed
+CLT0327,San Diego,4,Non-Binary,Cerebral Palsy,Residential,ABC Care Services,2023-05-22,2023-10-12,13227.53,Federal,Completed
+CLT0328,San Diego,15,Non-Binary,Autism,Residential,Sunrise Support,2023-11-13,2024-03-05,38210.52,State,Completed
+CLT0329,Central Valley,62,Non-Binary,Intellectual Disability,Transportation,LifeCare Homes,2024-12-18,2025-11-27,12392.89,Federal,Paused
+CLT0330,North Bay,15,Non-Binary,Down Syndrome,Day Program,Sunrise Support,2024-10-24,2025-08-16,35825.69,Other,Paused
+CLT0331,Orange County,51,Male,Intellectual Disability,Day Program,Safe Haven Homes,2024-07-06,2025-06-05,29061.34,State,Paused
+CLT0332,San Diego,36,Male,Autism,Day Program,LifeCare Homes,2022-10-16,2023-09-28,34048.27,Federal,Active
+CLT0333,North Bay,54,Male,Down Syndrome,Transportation,ABC Care Services,2024-09-26,2025-08-12,13572.91,Other,Completed
+CLT0334,San Diego,18,Non-Binary,Autism,Residential,LifeCare Homes,2024-02-22,2024-04-23,18498.39,Medicaid,Active
+CLT0335,North Bay,18,Female,Autism,Transportation,MobilityX,2024-06-14,2024-09-18,49985.28,Federal,Paused
+CLT0336,Orange County,26,Non-Binary,Down Syndrome,Residential,LifeCare Homes,2024-10-27,2025-01-21,56204.01,Other,Completed
+CLT0337,Central Valley,36,Female,Intellectual Disability,Residential,Safe Haven Homes,2022-10-03,2022-11-17,8791.71,Other,Completed
+CLT0338,Orange County,5,Non-Binary,Autism,Transportation,Safe Haven Homes,2024-05-26,2025-02-09,10242.57,Medicaid,Paused
+CLT0339,San Diego,52,Male,Cerebral Palsy,Residential,Safe Haven Homes,2025-04-15,2026-03-21,49545.07,Medicaid,Active
+CLT0340,North Bay,30,Male,Intellectual Disability,Residential,MobilityX,2024-08-29,2025-02-26,8446.23,Other,Active
+CLT0341,Los Angeles,17,Male,Intellectual Disability,Transportation,LifeCare Homes,2024-07-15,2024-09-08,19767.08,Federal,Active
+CLT0342,North Bay,46,Male,Cerebral Palsy,Transportation,Safe Haven Homes,2022-09-03,2023-06-12,37800,Medicaid,Completed
+CLT0343,Orange County,62,Non-Binary,Autism,Day Program,LifeCare Homes,2023-07-27,2023-10-09,3883.85,Federal,Completed
+CLT0344,North Bay,13,Male,Down Syndrome,Day Program,MobilityX,2023-04-13,2023-10-01,28877.85,Other,Paused
+CLT0345,Central Valley,59,Female,Down Syndrome,Transportation,Sunrise Support,2023-10-05,2024-09-20,42560.16,Federal,Paused
+CLT0346,Central Valley,31,Female,Cerebral Palsy,Day Program,ABC Care Services,2023-06-16,2024-03-17,18237.5,Other,Active
+CLT0347,North Bay,60,Female,Down Syndrome,Day Program,ABC Care Services,2023-05-15,2024-03-24,4133.2,State,Completed
+CLT0348,San Diego,18,Non-Binary,Down Syndrome,Transportation,Sunrise Support,2024-08-19,2024-12-18,17529.47,Federal,Paused
+CLT0349,Central Valley,56,Non-Binary,Down Syndrome,Transportation,MobilityX,2022-07-03,2023-01-30,46273.96,Medicaid,Active
+CLT0350,Orange County,28,Non-Binary,Intellectual Disability,Transportation,MobilityX,2024-01-31,2024-05-11,17130.91,Other,Paused
+CLT0351,Orange County,10,Male,Cerebral Palsy,Residential,Sunrise Support,2024-10-16,2024-10-30,40816.23,Other,Paused
+CLT0352,Los Angeles,31,Male,Autism,Residential,ABC Care Services,2025-02-20,2025-04-05,20082.04,Medicaid,Paused
+CLT0353,Los Angeles,29,Non-Binary,Down Syndrome,Transportation,ABC Care Services,2023-02-26,2023-07-10,56196.73,Medicaid,Active
+CLT0354,San Diego,22,Male,Autism,Transportation,ABC Care Services,2024-04-24,2025-03-11,16390.44,Medicaid,Active
+CLT0355,North Bay,37,Non-Binary,Autism,Day Program,LifeCare Homes,2023-12-09,2024-01-05,15844.18,State,Paused
+CLT0356,Central Valley,47,Male,Intellectual Disability,Transportation,ABC Care Services,2024-05-15,2024-12-23,12166.36,Federal,Completed
+CLT0357,San Diego,9,Male,Down Syndrome,Day Program,Sunrise Support,2024-11-06,2025-08-12,9576.61,State,Completed
+CLT0358,Orange County,40,Male,Cerebral Palsy,Day Program,MobilityX,2023-10-31,2024-01-08,13237.1,Federal,Active
+CLT0359,Los Angeles,32,Male,Autism,Day Program,ABC Care Services,2023-01-29,2024-01-04,22784.14,Federal,Paused
+CLT0360,Central Valley,32,Female,Intellectual Disability,Day Program,LifeCare Homes,2023-07-26,2024-07-23,9840.64,Medicaid,Completed
+CLT0361,Central Valley,42,Non-Binary,Down Syndrome,Transportation,Safe Haven Homes,2023-01-28,2023-07-27,54749.32,Federal,Completed
+CLT0362,Central Valley,51,Female,Cerebral Palsy,Day Program,LifeCare Homes,2023-02-04,2023-02-04,39287.41,State,Paused
+CLT0363,Orange County,30,Non-Binary,Intellectual Disability,Day Program,ABC Care Services,2023-09-23,2023-10-16,8839.42,Federal,Completed
+CLT0364,Orange County,27,Female,Intellectual Disability,Transportation,LifeCare Homes,2022-12-03,2023-07-02,7378.27,Other,Active
+CLT0365,Central Valley,10,Male,Down Syndrome,Residential,MobilityX,2022-07-16,2022-09-23,55943.52,Other,Paused
+CLT0366,Central Valley,38,Male,Down Syndrome,Residential,LifeCare Homes,2025-02-04,2025-04-09,15112.64,State,Active
+CLT0367,Orange County,20,Female,Cerebral Palsy,Residential,Safe Haven Homes,2024-07-29,2025-05-01,41535.83,Medicaid,Paused
+CLT0368,North Bay,46,Male,Intellectual Disability,Transportation,Sunrise Support,2023-03-16,2023-10-17,32315.96,Other,Paused
+CLT0369,Los Angeles,60,Female,Down Syndrome,Transportation,ABC Care Services,2023-05-14,2023-12-16,38268.89,Other,Paused
+CLT0370,North Bay,61,Non-Binary,Cerebral Palsy,Residential,MobilityX,2025-03-15,2025-09-10,31171.86,State,Completed
+CLT0371,Central Valley,20,Non-Binary,Intellectual Disability,Transportation,ABC Care Services,2023-07-16,2023-08-05,28326.49,State,Completed
+CLT0372,Los Angeles,53,Non-Binary,Down Syndrome,Transportation,ABC Care Services,2024-12-07,2025-03-06,13323.02,Federal,Active
+CLT0373,Central Valley,28,Female,Autism,Transportation,MobilityX,2023-10-22,2024-09-27,21798.59,Medicaid,Completed
+CLT0374,Orange County,62,Non-Binary,Autism,Transportation,MobilityX,2024-10-28,2025-02-28,47120.67,Federal,Active
+CLT0375,Central Valley,44,Male,Cerebral Palsy,Transportation,LifeCare Homes,2024-02-25,2024-07-17,56469.8,Medicaid,Active
+CLT0376,North Bay,41,Female,Cerebral Palsy,Day Program,Safe Haven Homes,2024-10-24,2025-09-01,8648.45,Medicaid,Completed
+CLT0377,San Diego,28,Male,Autism,Transportation,MobilityX,2023-07-14,2024-06-12,44654.31,State,Completed
+CLT0378,Los Angeles,42,Female,Intellectual Disability,Day Program,Sunrise Support,2025-01-12,2025-07-09,9990.53,State,Paused
+CLT0379,Los Angeles,51,Non-Binary,Down Syndrome,Transportation,Safe Haven Homes,2023-01-26,2023-11-07,3805.22,Other,Paused
+CLT0380,Orange County,3,Male,Down Syndrome,Residential,Safe Haven Homes,2024-02-13,2024-12-12,44296.04,Other,Active
+CLT0381,North Bay,19,Female,Cerebral Palsy,Day Program,LifeCare Homes,2024-03-20,2024-10-02,19002.23,Medicaid,Active
+CLT0382,Los Angeles,39,Non-Binary,Intellectual Disability,Residential,Sunrise Support,2024-01-18,2024-03-25,19502.15,Medicaid,Paused
+CLT0383,Los Angeles,55,Non-Binary,Cerebral Palsy,Transportation,MobilityX,2024-01-20,2024-01-25,22685.08,State,Paused
+CLT0384,San Diego,17,Male,Down Syndrome,Residential,MobilityX,2024-08-11,2025-06-04,37156.99,Medicaid,Completed
+CLT0385,Central Valley,58,Non-Binary,Autism,Transportation,MobilityX,2023-05-29,2023-12-19,26695.59,State,Completed
+CLT0386,North Bay,44,Female,Cerebral Palsy,Residential,MobilityX,2023-06-19,2023-11-02,37137.42,Federal,Paused
+CLT0387,Central Valley,61,Non-Binary,Intellectual Disability,Residential,ABC Care Services,2022-10-23,2023-09-28,57923.06,Medicaid,Active
+CLT0388,North Bay,38,Female,Intellectual Disability,Day Program,MobilityX,2022-07-12,2023-04-20,51918.1,Federal,Completed
+CLT0389,Los Angeles,52,Male,Cerebral Palsy,Residential,Safe Haven Homes,2024-03-28,2024-08-24,55992.07,Federal,Active
+CLT0390,Orange County,57,Male,Intellectual Disability,Residential,Safe Haven Homes,2022-09-22,2023-06-05,10498.71,State,Paused
+CLT0391,North Bay,18,Female,Autism,Day Program,Safe Haven Homes,2023-10-07,2023-12-30,21526.15,Medicaid,Completed
+CLT0392,San Diego,20,Non-Binary,Down Syndrome,Residential,MobilityX,2024-02-01,2024-08-10,53632.86,State,Completed
+CLT0393,Central Valley,6,Female,Intellectual Disability,Transportation,Safe Haven Homes,2024-12-24,2025-06-03,20449.84,Medicaid,Paused
+CLT0394,North Bay,14,Female,Autism,Transportation,LifeCare Homes,2023-06-06,2023-11-26,8862.45,Federal,Completed
+CLT0395,Los Angeles,42,Non-Binary,Cerebral Palsy,Residential,LifeCare Homes,2023-03-15,2023-08-03,47108.04,Federal,Completed
+CLT0396,San Diego,3,Non-Binary,Intellectual Disability,Residential,MobilityX,2023-12-13,2024-02-18,24524.96,Medicaid,Paused
+CLT0397,Orange County,57,Female,Cerebral Palsy,Residential,Sunrise Support,2023-10-25,2023-10-29,35117.98,Federal,Active
+CLT0398,Orange County,14,Female,Cerebral Palsy,Day Program,Safe Haven Homes,2023-02-14,2023-03-03,33239.19,State,Active
+CLT0399,Central Valley,64,Non-Binary,Autism,Residential,ABC Care Services,2024-11-11,2025-01-13,36036.57,Federal,Active
+CLT0400,Central Valley,20,Non-Binary,Cerebral Palsy,Day Program,LifeCare Homes,2024-10-06,2025-05-12,7763.17,Medicaid,Completed
+CLT0401,Los Angeles,59,Female,Autism,Transportation,MobilityX,2022-09-26,2022-12-14,26852.96,Federal,Paused
+CLT0402,North Bay,7,Female,Cerebral Palsy,Day Program,Safe Haven Homes,2023-01-20,2023-03-01,38707.83,State,Paused
+CLT0403,San Diego,63,Male,Cerebral Palsy,Residential,Safe Haven Homes,2023-08-21,2023-09-29,9691.9,Other,Paused
+CLT0404,San Diego,60,Female,Intellectual Disability,Transportation,ABC Care Services,2023-05-22,2024-02-12,36691.45,Medicaid,Active
+CLT0405,North Bay,41,Female,Autism,Residential,Safe Haven Homes,2024-05-08,2025-01-31,49514.49,State,Active
+CLT0406,Orange County,54,Non-Binary,Intellectual Disability,Residential,LifeCare Homes,2025-01-31,2025-03-09,22587.34,Federal,Completed
+CLT0407,Los Angeles,33,Female,Down Syndrome,Transportation,ABC Care Services,2023-10-06,2024-05-25,56996.47,State,Paused
+CLT0408,North Bay,58,Male,Cerebral Palsy,Residential,LifeCare Homes,2024-10-05,2025-09-15,52087.13,State,Active
+CLT0409,Los Angeles,58,Female,Intellectual Disability,Residential,MobilityX,2023-05-31,2024-04-30,31571.35,Other,Active
+CLT0410,Orange County,44,Male,Down Syndrome,Day Program,ABC Care Services,2023-01-14,2023-08-07,34131.24,Federal,Paused
+CLT0411,Central Valley,29,Female,Cerebral Palsy,Transportation,MobilityX,2023-09-29,2023-10-02,53947.91,Medicaid,Paused
+CLT0412,Central Valley,65,Male,Down Syndrome,Transportation,ABC Care Services,2023-07-19,2023-07-28,56112.48,Medicaid,Completed
+CLT0413,North Bay,40,Non-Binary,Autism,Residential,Safe Haven Homes,2025-03-04,2025-07-20,15833.85,Federal,Paused
+CLT0414,San Diego,55,Female,Cerebral Palsy,Transportation,MobilityX,2022-10-20,2023-01-24,49377.09,Federal,Active
+CLT0415,Orange County,32,Non-Binary,Autism,Day Program,ABC Care Services,2023-03-23,2023-10-08,31482.09,Federal,Active
+CLT0416,Central Valley,35,Male,Autism,Day Program,LifeCare Homes,2022-10-25,2023-08-07,20002.1,Other,Paused
+CLT0417,Orange County,47,Non-Binary,Autism,Day Program,ABC Care Services,2022-11-23,2023-03-13,40727.51,Other,Active
+CLT0418,Orange County,64,Female,Cerebral Palsy,Day Program,MobilityX,2025-05-04,2025-11-03,30378.75,Medicaid,Completed
+CLT0419,North Bay,51,Non-Binary,Cerebral Palsy,Residential,ABC Care Services,2022-12-22,2023-08-12,57695.64,Medicaid,Paused
+CLT0420,Los Angeles,16,Non-Binary,Down Syndrome,Day Program,ABC Care Services,2023-05-26,2023-06-28,13238.76,Medicaid,Paused
+CLT0421,Los Angeles,43,Female,Cerebral Palsy,Transportation,LifeCare Homes,2023-07-06,2024-06-25,7272.32,Federal,Active
+CLT0422,Central Valley,58,Female,Cerebral Palsy,Day Program,Sunrise Support,2024-11-09,2025-03-14,45776.49,Medicaid,Paused
+CLT0423,San Diego,30,Non-Binary,Intellectual Disability,Transportation,ABC Care Services,2022-12-20,2023-09-15,47050.83,Federal,Paused
+CLT0424,Central Valley,28,Female,Down Syndrome,Transportation,ABC Care Services,2023-08-02,2023-08-19,28554.87,Medicaid,Active
+CLT0425,Central Valley,43,Non-Binary,Down Syndrome,Day Program,MobilityX,2022-09-11,2022-10-04,45964.41,State,Active
+CLT0426,Los Angeles,62,Male,Down Syndrome,Day Program,Safe Haven Homes,2023-05-02,2023-06-01,25838.68,Medicaid,Active
+CLT0427,Los Angeles,7,Male,Cerebral Palsy,Residential,Sunrise Support,2024-04-21,2024-08-02,27918.08,State,Active
+CLT0428,North Bay,63,Male,Down Syndrome,Transportation,ABC Care Services,2023-07-15,2023-10-24,29134.82,Federal,Paused
+CLT0429,North Bay,43,Non-Binary,Cerebral Palsy,Residential,Safe Haven Homes,2022-11-24,2023-03-14,10651.08,Medicaid,Paused
+CLT0430,Orange County,41,Male,Intellectual Disability,Day Program,Sunrise Support,2024-11-04,2025-01-16,25823.4,Other,Completed
+CLT0431,Los Angeles,63,Non-Binary,Autism,Residential,Sunrise Support,2024-10-21,2024-11-08,38266.94,State,Completed
+CLT0432,Central Valley,37,Male,Cerebral Palsy,Day Program,ABC Care Services,2022-06-20,2023-03-03,20813.32,Other,Completed
+CLT0433,Central Valley,57,Non-Binary,Intellectual Disability,Day Program,MobilityX,2023-07-10,2023-11-12,47523.55,Other,Completed
+CLT0434,Orange County,29,Female,Cerebral Palsy,Transportation,Sunrise Support,2022-12-22,2023-08-22,31579.52,Federal,Completed
+CLT0435,North Bay,54,Male,Down Syndrome,Day Program,Safe Haven Homes,2024-04-10,2024-12-04,3290.25,Medicaid,Completed
+CLT0436,Orange County,25,Non-Binary,Intellectual Disability,Day Program,ABC Care Services,2023-06-14,2024-05-13,57945.24,State,Completed
+CLT0437,North Bay,24,Female,Autism,Residential,Safe Haven Homes,2023-03-30,2023-04-15,39549.65,Federal,Paused
+CLT0438,Los Angeles,38,Non-Binary,Intellectual Disability,Residential,ABC Care Services,2024-08-26,2025-06-26,5823.24,Other,Paused
+CLT0439,North Bay,53,Male,Autism,Residential,MobilityX,2022-06-25,2022-08-14,20009.36,Other,Active
+CLT0440,San Diego,36,Non-Binary,Cerebral Palsy,Residential,Sunrise Support,2024-08-16,2025-04-12,59590.1,Federal,Completed
+CLT0441,Los Angeles,54,Non-Binary,Intellectual Disability,Day Program,LifeCare Homes,2024-08-04,2025-05-08,53216.95,Other,Active
+CLT0442,North Bay,16,Female,Intellectual Disability,Residential,Safe Haven Homes,2024-05-27,2024-11-28,57514.98,Medicaid,Paused
+CLT0443,Orange County,26,Female,Down Syndrome,Day Program,LifeCare Homes,2022-08-20,2023-04-26,31797.24,State,Active
+CLT0444,Central Valley,48,Female,Cerebral Palsy,Residential,LifeCare Homes,2024-11-11,2025-05-08,10672.66,Federal,Active
+CLT0445,San Diego,33,Male,Autism,Transportation,Safe Haven Homes,2024-01-09,2024-07-23,15249.93,State,Active
+CLT0446,Orange County,46,Female,Intellectual Disability,Transportation,Sunrise Support,2023-01-24,2023-06-15,25195.18,State,Paused
+CLT0447,Los Angeles,59,Male,Cerebral Palsy,Day Program,LifeCare Homes,2024-02-06,2025-01-22,43617.31,Medicaid,Active
+CLT0448,San Diego,28,Male,Cerebral Palsy,Day Program,Sunrise Support,2023-10-08,2024-10-02,7137.84,Federal,Active
+CLT0449,Los Angeles,59,Non-Binary,Down Syndrome,Transportation,Safe Haven Homes,2022-10-11,2023-03-17,16162.93,Federal,Completed
+CLT0450,Orange County,19,Non-Binary,Intellectual Disability,Residential,Safe Haven Homes,2023-10-09,2024-05-16,45070.48,Medicaid,Active
+CLT0451,Los Angeles,62,Male,Intellectual Disability,Day Program,ABC Care Services,2025-03-16,2025-10-19,13685.58,Other,Paused
+CLT0452,San Diego,44,Female,Autism,Transportation,MobilityX,2024-01-12,2024-01-15,38734.35,Federal,Active
+CLT0453,Central Valley,21,Non-Binary,Down Syndrome,Day Program,Sunrise Support,2024-09-24,2025-07-27,52059.91,Other,Paused
+CLT0454,Orange County,13,Non-Binary,Intellectual Disability,Transportation,MobilityX,2023-06-30,2023-12-19,22348.42,State,Paused
+CLT0455,San Diego,15,Female,Cerebral Palsy,Day Program,Safe Haven Homes,2024-06-18,2025-02-15,4717.39,Medicaid,Completed
+CLT0456,Los Angeles,49,Male,Cerebral Palsy,Day Program,MobilityX,2022-06-30,2023-05-04,34057.76,State,Paused
+CLT0457,Los Angeles,45,Female,Down Syndrome,Transportation,Safe Haven Homes,2022-10-26,2023-05-28,53818.64,State,Completed
+CLT0458,San Diego,63,Female,Down Syndrome,Day Program,Sunrise Support,2022-08-25,2022-08-28,5022.39,State,Paused
+CLT0459,Orange County,52,Non-Binary,Down Syndrome,Residential,ABC Care Services,2024-11-24,2025-07-30,55962.02,Federal,Paused
+CLT0460,Central Valley,45,Non-Binary,Cerebral Palsy,Day Program,MobilityX,2024-10-27,2025-01-16,12437.87,Federal,Completed
+CLT0461,Central Valley,11,Female,Down Syndrome,Day Program,LifeCare Homes,2023-11-26,2024-01-11,26165.38,Medicaid,Active
+CLT0462,Central Valley,51,Male,Intellectual Disability,Transportation,MobilityX,2024-07-02,2024-07-31,14848.39,State,Active
+CLT0463,Orange County,51,Male,Cerebral Palsy,Day Program,LifeCare Homes,2023-10-16,2023-11-16,21351.5,Other,Paused
+CLT0464,San Diego,64,Non-Binary,Down Syndrome,Residential,ABC Care Services,2022-08-23,2022-12-26,43295.33,State,Completed
+CLT0465,Los Angeles,52,Female,Autism,Transportation,MobilityX,2023-07-16,2024-04-20,50681.73,State,Paused
+CLT0466,North Bay,62,Male,Cerebral Palsy,Residential,ABC Care Services,2024-07-22,2025-07-05,37728.38,State,Active
+CLT0467,Orange County,33,Male,Intellectual Disability,Day Program,LifeCare Homes,2024-04-19,2024-10-03,36041.16,Other,Active
+CLT0468,Central Valley,62,Non-Binary,Intellectual Disability,Residential,Safe Haven Homes,2024-03-31,2024-10-01,29625.52,State,Paused
+CLT0469,San Diego,65,Male,Cerebral Palsy,Day Program,LifeCare Homes,2023-02-17,2023-11-05,36703.88,State,Completed
+CLT0470,North Bay,14,Non-Binary,Cerebral Palsy,Residential,Safe Haven Homes,2024-06-20,2024-08-24,35211.11,Other,Paused
+CLT0471,San Diego,56,Non-Binary,Cerebral Palsy,Day Program,Safe Haven Homes,2025-01-30,2025-09-21,57570.96,Federal,Completed
+CLT0472,Orange County,7,Male,Cerebral Palsy,Transportation,Sunrise Support,2022-08-06,2023-04-12,19363.31,State,Active
+CLT0473,North Bay,44,Female,Cerebral Palsy,Transportation,LifeCare Homes,2022-12-20,2023-01-23,3707.63,Federal,Completed
+CLT0474,Orange County,19,Female,Autism,Transportation,Safe Haven Homes,2023-09-30,2024-02-08,52834.28,Other,Completed
+CLT0475,San Diego,58,Male,Down Syndrome,Transportation,LifeCare Homes,2024-03-09,2024-04-07,21957.52,Other,Active
+CLT0476,San Diego,39,Female,Cerebral Palsy,Transportation,LifeCare Homes,2022-09-06,2023-05-06,40968.6,State,Active
+CLT0477,North Bay,14,Female,Down Syndrome,Residential,Safe Haven Homes,2024-12-17,2025-03-28,18722.44,Medicaid,Active
+CLT0478,Central Valley,12,Female,Cerebral Palsy,Residential,Sunrise Support,2024-06-16,2025-04-14,11619.1,Federal,Paused
+CLT0479,Central Valley,22,Non-Binary,Intellectual Disability,Residential,LifeCare Homes,2024-09-10,2025-08-10,56436.69,State,Paused
+CLT0480,Central Valley,40,Male,Cerebral Palsy,Residential,Sunrise Support,2024-06-13,2024-08-30,25416.34,Medicaid,Paused
+CLT0481,North Bay,42,Non-Binary,Autism,Transportation,Safe Haven Homes,2022-11-29,2023-08-21,20931.2,Federal,Active
+CLT0482,San Diego,60,Non-Binary,Cerebral Palsy,Transportation,ABC Care Services,2024-01-29,2024-10-21,32739.34,Federal,Paused
+CLT0483,Los Angeles,18,Non-Binary,Intellectual Disability,Transportation,Safe Haven Homes,2024-11-06,2025-11-01,55209.99,Medicaid,Completed
+CLT0484,North Bay,10,Male,Down Syndrome,Transportation,Sunrise Support,2025-04-15,2025-12-20,54141.64,Federal,Paused
+CLT0485,North Bay,8,Non-Binary,Autism,Transportation,MobilityX,2024-11-04,2024-12-31,21190.8,Other,Completed
+CLT0486,Central Valley,45,Non-Binary,Cerebral Palsy,Day Program,MobilityX,2023-02-20,2023-03-22,27757.87,State,Completed
+CLT0487,San Diego,9,Female,Intellectual Disability,Transportation,Sunrise Support,2024-05-01,2025-03-30,10477.48,State,Completed
+CLT0488,Los Angeles,53,Male,Intellectual Disability,Day Program,MobilityX,2024-01-20,2024-04-10,14457.63,State,Active
+CLT0489,North Bay,19,Male,Down Syndrome,Day Program,LifeCare Homes,2025-02-28,2025-12-09,5476.53,Medicaid,Completed
+CLT0490,Los Angeles,35,Female,Autism,Residential,LifeCare Homes,2024-03-03,2025-02-28,37643.78,Medicaid,Paused
+CLT0491,Los Angeles,8,Male,Autism,Residential,LifeCare Homes,2024-05-24,2025-04-01,55137.36,Other,Active
+CLT0492,Orange County,24,Non-Binary,Autism,Transportation,MobilityX,2024-02-14,2024-09-09,32544.28,Federal,Paused
+CLT0493,North Bay,31,Non-Binary,Intellectual Disability,Day Program,ABC Care Services,2024-08-08,2025-04-10,20740.45,State,Active
+CLT0494,Central Valley,43,Non-Binary,Autism,Transportation,Safe Haven Homes,2023-04-14,2023-07-17,22478.5,Federal,Completed
+CLT0495,North Bay,14,Non-Binary,Down Syndrome,Transportation,MobilityX,2023-01-03,2023-11-29,5252.47,Other,Completed
+CLT0496,Los Angeles,7,Non-Binary,Down Syndrome,Transportation,Sunrise Support,2024-08-17,2025-07-21,24811.06,State,Paused
+CLT0497,San Diego,53,Non-Binary,Cerebral Palsy,Transportation,LifeCare Homes,2024-07-23,2024-10-11,24429.31,Medicaid,Active
+CLT0498,Central Valley,51,Male,Autism,Residential,Sunrise Support,2023-05-28,2024-02-28,18624.71,Other,Active
+CLT0499,San Diego,47,Non-Binary,Autism,Transportation,LifeCare Homes,2023-12-16,2024-03-10,59007.63,State,Active
+CLT0500,Orange County,62,Female,Down Syndrome,Day Program,LifeCare Homes,2023-10-08,2024-08-04,23797.39,Federal,Completed
+CLT0501,Central Valley,19,Male,Intellectual Disability,Transportation,MobilityX,2023-07-22,2024-07-04,20760.2,Other,Paused
+CLT0502,Central Valley,59,Female,Cerebral Palsy,Transportation,LifeCare Homes,2023-06-22,2023-10-17,53817.16,State,Active
+CLT0503,North Bay,3,Female,Down Syndrome,Transportation,Sunrise Support,2023-11-23,2024-07-22,29928,Other,Paused
+CLT0504,North Bay,11,Female,Cerebral Palsy,Transportation,MobilityX,2022-10-28,2023-03-19,25598.62,Medicaid,Active
+CLT0505,North Bay,6,Non-Binary,Cerebral Palsy,Residential,ABC Care Services,2024-05-23,2025-04-13,18460.56,Medicaid,Paused
+CLT0506,Los Angeles,43,Female,Intellectual Disability,Day Program,Safe Haven Homes,2022-10-05,2023-03-02,11643.65,State,Paused
+CLT0507,San Diego,39,Non-Binary,Down Syndrome,Transportation,Sunrise Support,2025-01-11,2025-08-05,11663.99,Medicaid,Active
+CLT0508,Orange County,15,Female,Down Syndrome,Residential,LifeCare Homes,2023-07-02,2024-06-06,36253.85,State,Active
+CLT0509,Los Angeles,39,Non-Binary,Intellectual Disability,Residential,ABC Care Services,2024-06-22,2025-01-16,44670.88,Federal,Paused
+CLT0510,Orange County,26,Female,Autism,Residential,MobilityX,2023-12-21,2024-07-28,6192.57,Medicaid,Active
+CLT0511,San Diego,36,Female,Intellectual Disability,Day Program,LifeCare Homes,2023-04-28,2023-08-10,33233.98,Medicaid,Completed
+CLT0512,San Diego,27,Female,Down Syndrome,Transportation,Sunrise Support,2023-06-25,2023-10-04,38200.48,Other,Completed
+CLT0513,Central Valley,26,Female,Down Syndrome,Day Program,Sunrise Support,2024-09-03,2025-03-10,24054.25,Federal,Active
+CLT0514,Los Angeles,18,Male,Intellectual Disability,Transportation,Sunrise Support,2022-12-07,2023-03-16,53183.42,Other,Active
+CLT0515,San Diego,22,Non-Binary,Cerebral Palsy,Residential,LifeCare Homes,2025-05-07,2025-12-08,48755.38,Other,Active
+CLT0516,North Bay,37,Female,Autism,Residential,ABC Care Services,2023-12-14,2024-06-24,56654.44,Federal,Active
+CLT0517,Central Valley,36,Non-Binary,Autism,Residential,ABC Care Services,2022-12-16,2022-12-19,43785.07,State,Paused
+CLT0518,Orange County,40,Non-Binary,Down Syndrome,Residential,MobilityX,2025-01-23,2025-08-30,25486.24,Federal,Active
+CLT0519,Orange County,62,Male,Intellectual Disability,Residential,ABC Care Services,2022-11-18,2022-12-23,26705.36,Federal,Active
+CLT0520,Central Valley,35,Male,Intellectual Disability,Residential,ABC Care Services,2023-09-23,2023-11-09,51342.3,State,Completed
+CLT0521,Orange County,49,Non-Binary,Intellectual Disability,Transportation,MobilityX,2024-09-29,2025-04-08,14819.46,Federal,Active
+CLT0522,Orange County,12,Female,Autism,Transportation,Safe Haven Homes,2024-07-03,2024-08-27,7893.1,State,Paused
+CLT0523,San Diego,42,Male,Cerebral Palsy,Residential,LifeCare Homes,2024-05-29,2025-01-17,46642.36,Medicaid,Paused
+CLT0524,Orange County,55,Non-Binary,Cerebral Palsy,Day Program,ABC Care Services,2023-12-23,2024-07-28,5489.38,State,Paused
+CLT0525,San Diego,58,Male,Autism,Transportation,LifeCare Homes,2022-11-25,2023-03-06,35537.96,Federal,Paused
+CLT0526,Los Angeles,32,Male,Down Syndrome,Transportation,MobilityX,2023-09-01,2023-12-06,20676.55,Other,Active
+CLT0527,North Bay,47,Male,Autism,Day Program,LifeCare Homes,2023-11-22,2024-02-19,44836.61,Other,Completed
+CLT0528,North Bay,57,Male,Intellectual Disability,Day Program,Safe Haven Homes,2023-07-27,2024-03-11,45278.9,State,Paused
+CLT0529,Los Angeles,23,Male,Down Syndrome,Residential,ABC Care Services,2025-03-09,2025-03-17,35233.46,Federal,Paused
+CLT0530,North Bay,4,Female,Cerebral Palsy,Day Program,Safe Haven Homes,2023-09-19,2024-06-14,42015.6,Federal,Paused
+CLT0531,San Diego,38,Non-Binary,Intellectual Disability,Day Program,Safe Haven Homes,2023-07-10,2023-10-20,8506.24,State,Paused
+CLT0532,Los Angeles,6,Male,Cerebral Palsy,Residential,MobilityX,2023-05-20,2023-12-16,4405.09,Medicaid,Active
+CLT0533,San Diego,54,Male,Cerebral Palsy,Transportation,Safe Haven Homes,2022-12-09,2023-10-14,18866.83,Federal,Completed
+CLT0534,Orange County,62,Non-Binary,Autism,Transportation,Sunrise Support,2023-05-25,2023-12-03,24440.58,Medicaid,Paused
+CLT0535,San Diego,31,Non-Binary,Intellectual Disability,Day Program,Sunrise Support,2023-12-29,2024-05-27,51086.4,Other,Active
+CLT0536,North Bay,10,Male,Cerebral Palsy,Residential,LifeCare Homes,2022-11-14,2023-01-18,13527.36,Medicaid,Completed
+CLT0537,Orange County,47,Female,Cerebral Palsy,Transportation,MobilityX,2022-06-03,2023-04-10,11804.64,State,Active
+CLT0538,Central Valley,33,Non-Binary,Intellectual Disability,Residential,LifeCare Homes,2024-06-16,2025-01-26,26766.97,Other,Completed
+CLT0539,Central Valley,53,Non-Binary,Autism,Transportation,Sunrise Support,2024-11-24,2025-10-21,39648.37,Medicaid,Paused
+CLT0540,Los Angeles,61,Male,Autism,Residential,LifeCare Homes,2022-05-29,2022-10-30,41344.7,Other,Active
+CLT0541,Orange County,61,Female,Intellectual Disability,Transportation,Safe Haven Homes,2025-04-28,2025-11-05,56434.76,Other,Completed
+CLT0542,North Bay,21,Female,Down Syndrome,Transportation,MobilityX,2025-05-17,2026-02-16,13698.63,Medicaid,Completed
+CLT0543,Orange County,30,Female,Down Syndrome,Day Program,Sunrise Support,2023-01-01,2023-08-25,57230.28,State,Paused
+CLT0544,San Diego,57,Male,Intellectual Disability,Transportation,LifeCare Homes,2023-06-24,2023-11-14,41429.69,Federal,Completed
+CLT0545,San Diego,38,Male,Cerebral Palsy,Day Program,Sunrise Support,2024-08-27,2025-02-16,50359.88,Federal,Active
+CLT0546,Orange County,22,Male,Down Syndrome,Day Program,LifeCare Homes,2024-06-23,2025-06-22,12724.99,State,Active
+CLT0547,North Bay,64,Male,Cerebral Palsy,Day Program,MobilityX,2022-08-08,2023-06-07,16699.58,Other,Paused
+CLT0548,North Bay,25,Female,Down Syndrome,Transportation,ABC Care Services,2023-07-20,2024-05-31,40197.01,Other,Completed
+CLT0549,Los Angeles,4,Non-Binary,Cerebral Palsy,Day Program,LifeCare Homes,2023-02-09,2023-10-20,58711.52,Federal,Paused
+CLT0550,North Bay,32,Female,Down Syndrome,Day Program,Safe Haven Homes,2022-11-25,2023-08-24,50101.21,Federal,Active
+CLT0551,North Bay,57,Male,Autism,Residential,MobilityX,2024-01-28,2024-07-23,17415.76,Other,Active
+CLT0552,Central Valley,28,Male,Autism,Day Program,MobilityX,2025-01-18,2025-12-16,45473.36,State,Paused
+CLT0553,Orange County,59,Male,Down Syndrome,Transportation,LifeCare Homes,2023-08-07,2023-10-30,15459.72,Other,Paused
+CLT0554,Central Valley,55,Non-Binary,Autism,Day Program,Safe Haven Homes,2024-09-04,2025-05-04,53588.81,State,Paused
+CLT0555,Orange County,34,Female,Cerebral Palsy,Residential,LifeCare Homes,2024-09-30,2025-01-13,14440.53,State,Active
+CLT0556,Orange County,39,Non-Binary,Intellectual Disability,Day Program,LifeCare Homes,2022-07-21,2022-09-26,51855.98,Medicaid,Paused
+CLT0557,Orange County,44,Male,Autism,Transportation,MobilityX,2024-01-14,2024-02-12,14232.57,Federal,Active
+CLT0558,Orange County,35,Male,Intellectual Disability,Residential,Sunrise Support,2023-01-17,2023-03-06,19925.79,Medicaid,Paused
+CLT0559,San Diego,6,Male,Autism,Transportation,Sunrise Support,2024-08-16,2025-05-20,53560.14,Federal,Active
+CLT0560,North Bay,19,Non-Binary,Cerebral Palsy,Day Program,LifeCare Homes,2024-09-08,2025-07-28,18447.98,Medicaid,Paused
+CLT0561,North Bay,26,Non-Binary,Down Syndrome,Residential,LifeCare Homes,2025-03-18,2025-09-24,25247.16,State,Paused
+CLT0562,San Diego,58,Non-Binary,Down Syndrome,Residential,Sunrise Support,2022-10-28,2023-04-02,49604.48,Medicaid,Completed
+CLT0563,San Diego,41,Non-Binary,Cerebral Palsy,Day Program,Safe Haven Homes,2023-09-11,2024-07-25,23117.3,Other,Paused
+CLT0564,North Bay,17,Female,Down Syndrome,Residential,Sunrise Support,2025-02-05,2025-07-15,58713.29,Other,Paused
+CLT0565,Central Valley,38,Non-Binary,Cerebral Palsy,Day Program,Sunrise Support,2025-01-03,2025-03-02,20474.38,Medicaid,Paused
+CLT0566,Los Angeles,23,Non-Binary,Intellectual Disability,Transportation,Sunrise Support,2023-12-21,2024-01-02,27712.68,State,Paused
+CLT0567,North Bay,63,Female,Cerebral Palsy,Day Program,Safe Haven Homes,2023-08-29,2024-05-05,17914.04,State,Completed
+CLT0568,Los Angeles,11,Non-Binary,Down Syndrome,Day Program,LifeCare Homes,2022-11-13,2022-11-17,27902.04,Federal,Active
+CLT0569,San Diego,10,Female,Cerebral Palsy,Transportation,Sunrise Support,2022-07-07,2023-03-28,12143.19,Other,Completed
+CLT0570,Orange County,17,Non-Binary,Autism,Transportation,Safe Haven Homes,2025-05-10,2025-06-20,55576.89,State,Completed
+CLT0571,Los Angeles,15,Female,Intellectual Disability,Day Program,Safe Haven Homes,2023-06-30,2024-06-22,44418.33,Other,Active
+CLT0572,North Bay,43,Non-Binary,Intellectual Disability,Transportation,Sunrise Support,2024-09-14,2024-12-13,17010.8,Other,Paused
+CLT0573,San Diego,16,Male,Cerebral Palsy,Transportation,ABC Care Services,2023-01-31,2024-01-13,29726.81,Federal,Paused
+CLT0574,Central Valley,20,Male,Autism,Residential,Sunrise Support,2023-11-21,2024-11-03,11909.2,State,Completed
+CLT0575,San Diego,37,Non-Binary,Down Syndrome,Residential,LifeCare Homes,2025-03-18,2025-10-08,46953.33,Federal,Active
+CLT0576,North Bay,10,Non-Binary,Intellectual Disability,Transportation,ABC Care Services,2022-08-17,2022-09-21,34532.73,Federal,Paused
+CLT0577,Orange County,7,Male,Autism,Transportation,MobilityX,2022-08-14,2022-10-29,7565.5,Other,Paused
+CLT0578,Central Valley,23,Non-Binary,Cerebral Palsy,Day Program,ABC Care Services,2025-03-20,2025-05-30,43603.67,State,Paused
+CLT0579,Los Angeles,53,Female,Down Syndrome,Transportation,Sunrise Support,2024-12-18,2025-06-04,59095.2,Medicaid,Completed
+CLT0580,North Bay,45,Female,Down Syndrome,Day Program,Safe Haven Homes,2022-09-06,2023-04-13,29716.13,State,Active
+CLT0581,North Bay,16,Non-Binary,Intellectual Disability,Day Program,MobilityX,2022-12-25,2023-12-21,30593.61,Federal,Completed
+CLT0582,Orange County,61,Male,Down Syndrome,Day Program,MobilityX,2024-02-04,2024-04-21,34388.64,Other,Completed
+CLT0583,Orange County,9,Male,Autism,Transportation,ABC Care Services,2023-04-10,2023-12-29,59374.86,Other,Active
+CLT0584,North Bay,16,Non-Binary,Autism,Day Program,ABC Care Services,2025-02-03,2025-04-10,26424.03,Medicaid,Active
+CLT0585,Central Valley,45,Male,Intellectual Disability,Day Program,MobilityX,2023-07-28,2024-03-04,40970.95,State,Completed
+CLT0586,Los Angeles,41,Female,Cerebral Palsy,Day Program,ABC Care Services,2022-11-04,2023-11-01,51101.14,Medicaid,Active
+CLT0587,North Bay,57,Non-Binary,Autism,Day Program,Safe Haven Homes,2022-07-14,2023-06-20,42492.12,Medicaid,Active
+CLT0588,Central Valley,63,Male,Intellectual Disability,Day Program,Sunrise Support,2023-01-11,2023-12-24,6630.15,Other,Active
+CLT0589,Orange County,19,Female,Cerebral Palsy,Transportation,Sunrise Support,2022-07-31,2022-10-07,9480.09,Other,Paused
+CLT0590,North Bay,13,Male,Cerebral Palsy,Residential,MobilityX,2024-12-18,2025-08-26,53224.02,State,Active
+CLT0591,San Diego,64,Non-Binary,Cerebral Palsy,Residential,ABC Care Services,2022-09-27,2023-04-20,37999.73,Other,Active
+CLT0592,North Bay,41,Non-Binary,Cerebral Palsy,Transportation,Safe Haven Homes,2024-04-14,2025-01-05,11164.49,Medicaid,Completed
+CLT0593,Orange County,50,Non-Binary,Cerebral Palsy,Transportation,ABC Care Services,2023-03-29,2023-08-10,10584.45,Medicaid,Completed
+CLT0594,Orange County,18,Non-Binary,Intellectual Disability,Residential,LifeCare Homes,2024-12-31,2025-12-23,26199.37,Federal,Completed
+CLT0595,Los Angeles,39,Female,Down Syndrome,Day Program,MobilityX,2022-07-25,2023-01-07,26584.04,Federal,Active
+CLT0596,North Bay,17,Female,Down Syndrome,Residential,MobilityX,2023-01-07,2023-04-21,10707.25,Medicaid,Completed
+CLT0597,North Bay,32,Male,Intellectual Disability,Residential,LifeCare Homes,2023-11-22,2024-11-10,4720.76,Medicaid,Paused
+CLT0598,Orange County,24,Female,Autism,Transportation,ABC Care Services,2023-06-23,2024-04-12,25314.44,Other,Paused
+CLT0599,Central Valley,38,Male,Autism,Transportation,Sunrise Support,2024-05-23,2024-06-19,13493.64,Medicaid,Paused
+CLT0600,Los Angeles,17,Non-Binary,Intellectual Disability,Residential,ABC Care Services,2025-03-20,2025-09-21,14042.97,Federal,Completed
+CLT0601,San Diego,20,Female,Intellectual Disability,Residential,LifeCare Homes,2025-01-29,2025-05-30,27035.44,Federal,Active
+CLT0602,North Bay,7,Non-Binary,Down Syndrome,Transportation,Sunrise Support,2023-03-29,2023-12-13,6212.35,State,Paused
+CLT0603,San Diego,36,Female,Autism,Day Program,MobilityX,2024-05-15,2025-05-10,26791.44,Medicaid,Completed
+CLT0604,San Diego,26,Non-Binary,Intellectual Disability,Transportation,MobilityX,2025-05-07,2025-06-26,4346.78,State,Paused
+CLT0605,Los Angeles,16,Non-Binary,Cerebral Palsy,Day Program,Safe Haven Homes,2025-05-11,2025-11-16,17806.75,Other,Active
+CLT0606,San Diego,4,Male,Autism,Residential,ABC Care Services,2022-09-01,2023-05-24,21157,Federal,Paused
+CLT0607,San Diego,19,Female,Cerebral Palsy,Day Program,LifeCare Homes,2023-06-22,2024-06-11,28275.24,State,Completed
+CLT0608,Orange County,38,Female,Cerebral Palsy,Residential,LifeCare Homes,2023-12-20,2024-01-14,10847.53,Federal,Completed
+CLT0609,Los Angeles,55,Female,Autism,Residential,Safe Haven Homes,2022-06-26,2022-07-30,20903.47,Other,Active
+CLT0610,Central Valley,58,Male,Cerebral Palsy,Transportation,MobilityX,2023-08-08,2023-09-04,15831.45,Federal,Active
+CLT0611,North Bay,37,Non-Binary,Autism,Transportation,LifeCare Homes,2023-10-17,2024-06-12,6296.82,Medicaid,Completed
+CLT0612,Central Valley,26,Female,Autism,Residential,LifeCare Homes,2023-11-01,2024-08-31,31273.66,Medicaid,Completed
+CLT0613,San Diego,39,Female,Intellectual Disability,Day Program,LifeCare Homes,2023-10-20,2024-10-13,54026.92,Medicaid,Paused
+CLT0614,San Diego,42,Non-Binary,Cerebral Palsy,Transportation,Sunrise Support,2023-02-02,2023-04-09,30433.43,State,Paused
+CLT0615,Central Valley,30,Female,Cerebral Palsy,Residential,Sunrise Support,2025-03-15,2026-02-27,29987.77,State,Paused
+CLT0616,Orange County,62,Non-Binary,Down Syndrome,Day Program,MobilityX,2023-10-18,2023-12-27,54161.41,Federal,Completed
+CLT0617,Los Angeles,62,Male,Intellectual Disability,Transportation,ABC Care Services,2024-02-23,2025-01-15,48647.92,Federal,Completed
+CLT0618,Central Valley,51,Non-Binary,Cerebral Palsy,Transportation,MobilityX,2022-11-23,2023-07-21,40933.13,Medicaid,Completed
+CLT0619,North Bay,65,Non-Binary,Down Syndrome,Day Program,Sunrise Support,2024-09-09,2025-01-27,28780.09,Federal,Completed
+CLT0620,Central Valley,53,Non-Binary,Down Syndrome,Transportation,Safe Haven Homes,2022-07-27,2023-05-25,38405.51,Medicaid,Active
+CLT0621,San Diego,40,Male,Autism,Day Program,ABC Care Services,2023-04-11,2024-01-05,16942.49,State,Active
+CLT0622,Central Valley,48,Female,Autism,Transportation,LifeCare Homes,2022-07-16,2023-06-29,21972.02,Other,Active
+CLT0623,Orange County,22,Male,Intellectual Disability,Transportation,MobilityX,2023-07-25,2023-09-21,48729.21,Medicaid,Paused
+CLT0624,Central Valley,48,Non-Binary,Autism,Transportation,LifeCare Homes,2023-04-24,2023-05-17,41319.82,State,Paused
+CLT0625,Los Angeles,29,Male,Autism,Day Program,LifeCare Homes,2024-04-03,2024-07-13,47184.91,State,Completed
+CLT0626,Central Valley,39,Non-Binary,Down Syndrome,Residential,LifeCare Homes,2024-02-28,2024-07-20,50778.5,Federal,Completed
+CLT0627,San Diego,9,Male,Autism,Residential,LifeCare Homes,2025-03-20,2025-06-22,49421.71,Other,Paused
+CLT0628,San Diego,41,Male,Intellectual Disability,Day Program,Safe Haven Homes,2024-06-20,2024-06-23,8523.31,State,Completed
+CLT0629,Los Angeles,30,Male,Down Syndrome,Day Program,Sunrise Support,2024-07-23,2025-04-01,49231.21,Federal,Active
+CLT0630,Central Valley,14,Male,Cerebral Palsy,Transportation,LifeCare Homes,2023-12-02,2024-01-06,9988.03,Other,Active
+CLT0631,San Diego,7,Female,Down Syndrome,Transportation,Safe Haven Homes,2025-03-25,2026-02-01,23435.03,State,Paused
+CLT0632,San Diego,63,Male,Cerebral Palsy,Transportation,LifeCare Homes,2023-01-20,2023-07-12,14544.37,Federal,Completed
+CLT0633,Central Valley,63,Male,Cerebral Palsy,Transportation,Sunrise Support,2022-10-25,2023-03-26,7979.51,Other,Completed
+CLT0634,Orange County,21,Male,Autism,Day Program,ABC Care Services,2024-06-24,2025-02-13,59479.91,State,Paused
+CLT0635,Central Valley,48,Female,Down Syndrome,Day Program,ABC Care Services,2023-12-11,2023-12-11,47104.51,Other,Paused
+CLT0636,Orange County,34,Male,Autism,Transportation,Sunrise Support,2024-01-25,2024-02-27,45490.64,Federal,Active
+CLT0637,San Diego,47,Non-Binary,Intellectual Disability,Residential,Sunrise Support,2025-01-20,2025-04-01,4940,Federal,Paused
+CLT0638,San Diego,18,Male,Down Syndrome,Transportation,LifeCare Homes,2024-04-22,2024-09-08,47568.37,Other,Completed
+CLT0639,Orange County,9,Non-Binary,Cerebral Palsy,Residential,MobilityX,2023-01-10,2023-09-18,45752.36,Medicaid,Active
+CLT0640,Los Angeles,44,Non-Binary,Autism,Day Program,Sunrise Support,2024-06-17,2024-11-01,22317.8,State,Paused
+CLT0641,Orange County,45,Female,Down Syndrome,Residential,ABC Care Services,2023-03-06,2023-10-06,41250.38,Other,Active
+CLT0642,Los Angeles,9,Female,Autism,Transportation,MobilityX,2024-02-04,2024-05-13,52378.16,Other,Paused
+CLT0643,Los Angeles,45,Male,Autism,Residential,Safe Haven Homes,2024-02-12,2024-07-01,6956.46,Federal,Paused
+CLT0644,Los Angeles,31,Female,Cerebral Palsy,Day Program,Safe Haven Homes,2023-07-28,2023-12-25,53228.29,Medicaid,Paused
+CLT0645,North Bay,44,Female,Cerebral Palsy,Transportation,Sunrise Support,2024-06-09,2024-07-24,42856.66,Medicaid,Active
+CLT0646,North Bay,36,Non-Binary,Cerebral Palsy,Day Program,ABC Care Services,2025-05-07,2025-09-09,8757.13,Federal,Completed
+CLT0647,Central Valley,46,Female,Cerebral Palsy,Residential,LifeCare Homes,2025-01-13,2025-04-07,12597.09,State,Completed
+CLT0648,Los Angeles,31,Non-Binary,Down Syndrome,Transportation,MobilityX,2023-05-15,2023-09-25,26051.67,Medicaid,Paused
+CLT0649,San Diego,9,Female,Intellectual Disability,Transportation,MobilityX,2022-08-19,2023-02-22,7805.19,Medicaid,Paused
+CLT0650,Los Angeles,20,Non-Binary,Down Syndrome,Day Program,Safe Haven Homes,2025-03-29,2025-12-03,37853.92,State,Completed
+CLT0651,Orange County,26,Female,Intellectual Disability,Transportation,Safe Haven Homes,2024-10-09,2025-03-17,8071.84,Other,Active
+CLT0652,Orange County,62,Male,Intellectual Disability,Transportation,Safe Haven Homes,2022-08-26,2022-12-06,30758.85,Medicaid,Paused
+CLT0653,Orange County,33,Female,Autism,Transportation,Sunrise Support,2022-06-27,2022-12-15,37521.44,Medicaid,Completed
+CLT0654,North Bay,54,Male,Cerebral Palsy,Transportation,MobilityX,2022-07-27,2023-01-27,57353.23,Medicaid,Paused
+CLT0655,North Bay,30,Non-Binary,Intellectual Disability,Residential,LifeCare Homes,2024-07-22,2025-03-25,19361.32,Federal,Paused
+CLT0656,Los Angeles,23,Male,Intellectual Disability,Day Program,ABC Care Services,2024-06-07,2024-11-05,13708.19,Federal,Completed
+CLT0657,San Diego,32,Male,Intellectual Disability,Transportation,MobilityX,2024-10-09,2025-03-16,19933.09,Federal,Active
+CLT0658,Orange County,35,Female,Cerebral Palsy,Day Program,LifeCare Homes,2025-02-22,2026-02-12,13827.74,State,Active
+CLT0659,San Diego,28,Female,Intellectual Disability,Transportation,MobilityX,2023-06-04,2024-05-11,29578.03,Medicaid,Paused
+CLT0660,North Bay,16,Female,Cerebral Palsy,Day Program,Safe Haven Homes,2025-05-20,2025-11-03,28879.86,State,Paused
+CLT0661,Los Angeles,31,Non-Binary,Cerebral Palsy,Day Program,Sunrise Support,2025-01-28,2025-10-04,57855.25,Medicaid,Completed
+CLT0662,San Diego,53,Non-Binary,Autism,Day Program,LifeCare Homes,2025-01-13,2025-02-15,7911.44,Federal,Completed
+CLT0663,San Diego,37,Non-Binary,Down Syndrome,Transportation,Safe Haven Homes,2022-09-16,2023-01-12,55375.95,State,Active
+CLT0664,San Diego,7,Non-Binary,Intellectual Disability,Day Program,ABC Care Services,2024-12-06,2025-08-27,54407.45,Other,Active
+CLT0665,Orange County,3,Non-Binary,Autism,Day Program,Safe Haven Homes,2023-01-27,2023-02-23,46704.06,Medicaid,Active
+CLT0666,Central Valley,39,Female,Intellectual Disability,Day Program,Sunrise Support,2023-05-07,2024-04-05,13549.23,Other,Paused
+CLT0667,Los Angeles,61,Female,Intellectual Disability,Day Program,LifeCare Homes,2025-02-27,2025-05-15,43295.73,State,Paused
+CLT0668,Orange County,14,Non-Binary,Intellectual Disability,Day Program,MobilityX,2025-03-08,2025-05-30,43330.92,Federal,Paused
+CLT0669,Orange County,21,Male,Autism,Residential,Sunrise Support,2022-09-05,2023-01-28,43680.41,Federal,Paused
+CLT0670,San Diego,11,Non-Binary,Intellectual Disability,Residential,Sunrise Support,2024-01-03,2024-02-11,57739.85,Medicaid,Completed
+CLT0671,San Diego,49,Male,Autism,Transportation,ABC Care Services,2023-02-14,2023-09-09,20427.99,State,Paused
+CLT0672,San Diego,59,Female,Cerebral Palsy,Residential,ABC Care Services,2024-12-25,2025-06-26,32164.72,Federal,Completed
+CLT0673,Los Angeles,19,Male,Cerebral Palsy,Transportation,MobilityX,2024-03-25,2024-12-13,3522.38,State,Active
+CLT0674,Central Valley,52,Non-Binary,Down Syndrome,Day Program,MobilityX,2024-01-28,2024-03-10,42640.3,Medicaid,Paused
+CLT0675,San Diego,5,Female,Autism,Residential,Safe Haven Homes,2023-03-19,2024-01-09,19176.8,Medicaid,Paused
+CLT0676,Los Angeles,46,Non-Binary,Cerebral Palsy,Transportation,Sunrise Support,2024-06-20,2024-09-22,21078.22,Medicaid,Paused
+CLT0677,Los Angeles,56,Female,Cerebral Palsy,Day Program,ABC Care Services,2022-10-24,2023-03-17,48131.47,Other,Paused
+CLT0678,North Bay,32,Female,Down Syndrome,Day Program,MobilityX,2022-11-17,2023-07-14,25928.48,Federal,Paused
+CLT0679,North Bay,33,Male,Intellectual Disability,Residential,ABC Care Services,2025-04-13,2026-03-06,34452.06,State,Paused
+CLT0680,San Diego,37,Male,Intellectual Disability,Residential,LifeCare Homes,2022-09-10,2023-06-25,4581.45,Medicaid,Active
+CLT0681,North Bay,8,Female,Down Syndrome,Transportation,Safe Haven Homes,2022-10-14,2022-10-16,25076.93,Other,Active
+CLT0682,Los Angeles,43,Male,Intellectual Disability,Transportation,LifeCare Homes,2023-07-20,2024-04-14,58839.35,Medicaid,Active
+CLT0683,Los Angeles,44,Female,Cerebral Palsy,Day Program,ABC Care Services,2023-07-31,2024-04-12,20737.77,Medicaid,Paused
+CLT0684,Central Valley,22,Non-Binary,Down Syndrome,Residential,Safe Haven Homes,2024-03-13,2024-11-28,28334.32,Medicaid,Completed
+CLT0685,Los Angeles,6,Female,Cerebral Palsy,Transportation,LifeCare Homes,2024-12-07,2025-06-25,17949.24,Medicaid,Completed
+CLT0686,San Diego,55,Non-Binary,Down Syndrome,Residential,LifeCare Homes,2023-05-21,2023-06-25,21076.65,Other,Active
+CLT0687,Central Valley,4,Male,Cerebral Palsy,Residential,LifeCare Homes,2022-10-31,2023-03-08,30493.78,State,Active
+CLT0688,San Diego,4,Male,Cerebral Palsy,Day Program,Sunrise Support,2025-05-01,2025-08-25,28407.69,State,Paused
+CLT0689,Orange County,48,Female,Cerebral Palsy,Residential,MobilityX,2022-06-30,2023-01-10,4092.02,Other,Completed
+CLT0690,Orange County,28,Female,Autism,Day Program,ABC Care Services,2023-11-10,2024-10-14,17473.87,Federal,Completed
+CLT0691,Central Valley,50,Non-Binary,Cerebral Palsy,Transportation,Sunrise Support,2023-12-30,2024-02-09,7885.48,Medicaid,Active
+CLT0692,Los Angeles,59,Non-Binary,Down Syndrome,Day Program,Sunrise Support,2023-09-13,2024-07-18,27772.94,Medicaid,Completed
+CLT0693,Orange County,50,Male,Intellectual Disability,Transportation,Safe Haven Homes,2024-04-27,2024-08-20,16226.22,Other,Active
+CLT0694,Los Angeles,13,Non-Binary,Autism,Day Program,MobilityX,2022-07-27,2023-05-28,20974.7,State,Active
+CLT0695,Orange County,35,Female,Intellectual Disability,Residential,ABC Care Services,2023-10-11,2024-09-27,11233.54,Medicaid,Completed
+CLT0696,Los Angeles,3,Female,Autism,Day Program,Sunrise Support,2023-06-20,2024-05-19,6848.41,State,Completed
+CLT0697,San Diego,16,Female,Intellectual Disability,Transportation,Sunrise Support,2024-06-25,2025-01-17,29178.05,State,Active
+CLT0698,North Bay,37,Male,Autism,Day Program,ABC Care Services,2024-03-06,2024-11-11,44131.66,Other,Paused
+CLT0699,San Diego,14,Female,Autism,Residential,ABC Care Services,2022-10-22,2023-02-07,18879.21,Other,Active
+CLT0700,Orange County,9,Female,Cerebral Palsy,Transportation,LifeCare Homes,2025-05-08,2025-07-16,51865.54,Other,Completed
+CLT0701,San Diego,3,Female,Cerebral Palsy,Residential,LifeCare Homes,2023-10-17,2024-09-20,46123.42,Other,Completed
+CLT0702,Orange County,27,Male,Cerebral Palsy,Residential,ABC Care Services,2024-10-28,2024-11-21,34202.92,State,Completed
+CLT0703,Los Angeles,35,Non-Binary,Down Syndrome,Residential,LifeCare Homes,2025-01-02,2025-05-12,16522.76,Other,Active
+CLT0704,Central Valley,25,Female,Autism,Residential,ABC Care Services,2024-02-07,2024-12-30,56175.73,State,Paused
+CLT0705,Central Valley,39,Female,Cerebral Palsy,Residential,ABC Care Services,2023-02-19,2024-01-23,55864.67,State,Active
+CLT0706,Los Angeles,34,Female,Cerebral Palsy,Transportation,LifeCare Homes,2023-07-31,2023-08-07,38605.46,State,Completed
+CLT0707,Central Valley,47,Non-Binary,Autism,Transportation,LifeCare Homes,2025-02-28,2025-07-16,49200.04,Federal,Active
+CLT0708,Orange County,36,Female,Intellectual Disability,Residential,Sunrise Support,2023-04-04,2023-10-21,10259.91,State,Paused
+CLT0709,Central Valley,51,Female,Cerebral Palsy,Day Program,LifeCare Homes,2024-11-22,2025-01-07,53216.11,Medicaid,Active
+CLT0710,Orange County,47,Non-Binary,Cerebral Palsy,Residential,ABC Care Services,2022-08-26,2023-05-02,5525.72,State,Paused
+CLT0711,Los Angeles,15,Female,Autism,Transportation,Sunrise Support,2023-11-17,2024-08-17,23794.33,Other,Paused
+CLT0712,Los Angeles,32,Non-Binary,Autism,Residential,LifeCare Homes,2023-06-08,2023-08-27,25316.36,Other,Completed
+CLT0713,San Diego,64,Female,Intellectual Disability,Residential,Sunrise Support,2023-01-19,2023-04-14,24391.13,Federal,Paused
+CLT0714,Central Valley,61,Female,Cerebral Palsy,Residential,Sunrise Support,2024-02-24,2024-12-24,13227.69,Federal,Completed
+CLT0715,San Diego,34,Non-Binary,Down Syndrome,Transportation,ABC Care Services,2025-02-08,2025-03-18,37316.89,State,Completed
+CLT0716,North Bay,21,Male,Cerebral Palsy,Transportation,ABC Care Services,2024-12-15,2025-01-10,29695.88,Other,Paused
+CLT0717,Los Angeles,6,Female,Autism,Transportation,MobilityX,2024-09-12,2025-08-11,29552.88,Other,Paused
+CLT0718,Los Angeles,11,Female,Intellectual Disability,Transportation,ABC Care Services,2023-04-21,2024-04-16,43990.66,Federal,Active
+CLT0719,Los Angeles,37,Non-Binary,Autism,Day Program,LifeCare Homes,2023-01-17,2024-01-02,13278.14,Medicaid,Paused
+CLT0720,San Diego,54,Female,Intellectual Disability,Residential,Safe Haven Homes,2023-10-03,2024-03-11,53771.77,Medicaid,Paused
+CLT0721,Orange County,15,Male,Intellectual Disability,Residential,ABC Care Services,2022-05-27,2023-05-04,9520.33,State,Active
+CLT0722,Central Valley,33,Female,Intellectual Disability,Day Program,LifeCare Homes,2023-06-13,2024-02-13,29724.9,State,Active
+CLT0723,North Bay,15,Male,Cerebral Palsy,Day Program,LifeCare Homes,2024-04-25,2024-04-27,10163.93,Other,Active
+CLT0724,Los Angeles,34,Female,Autism,Day Program,ABC Care Services,2023-08-21,2024-06-02,23006.34,Federal,Active
+CLT0725,Orange County,5,Non-Binary,Down Syndrome,Transportation,LifeCare Homes,2023-11-22,2024-05-27,31928.85,Medicaid,Paused
+CLT0726,Central Valley,63,Female,Autism,Residential,Safe Haven Homes,2025-04-03,2025-05-19,30125.38,Federal,Paused
+CLT0727,Orange County,32,Non-Binary,Autism,Residential,MobilityX,2025-04-27,2026-02-18,34908.88,Medicaid,Completed
+CLT0728,Los Angeles,27,Male,Cerebral Palsy,Day Program,ABC Care Services,2024-12-17,2025-11-23,44706.54,Other,Active
+CLT0729,San Diego,21,Male,Autism,Residential,Sunrise Support,2022-09-28,2023-01-20,47097.05,Other,Active
+CLT0730,Orange County,47,Female,Down Syndrome,Residential,MobilityX,2024-06-22,2024-12-17,42651.27,State,Active
+CLT0731,North Bay,51,Non-Binary,Cerebral Palsy,Residential,Safe Haven Homes,2023-07-18,2023-11-28,22834.03,State,Paused
+CLT0732,Los Angeles,50,Non-Binary,Intellectual Disability,Day Program,LifeCare Homes,2022-07-07,2022-08-02,59027,Other,Active
+CLT0733,Los Angeles,18,Non-Binary,Intellectual Disability,Transportation,Safe Haven Homes,2024-02-17,2024-12-17,7732.24,State,Active
+CLT0734,Los Angeles,34,Male,Autism,Day Program,Safe Haven Homes,2024-06-20,2024-09-24,26325.67,Medicaid,Completed
+CLT0735,Orange County,18,Male,Down Syndrome,Transportation,Sunrise Support,2024-05-02,2024-05-31,14882.28,State,Active
+CLT0736,San Diego,62,Non-Binary,Down Syndrome,Day Program,LifeCare Homes,2025-01-15,2026-01-14,46276.44,Federal,Completed
+CLT0737,San Diego,48,Non-Binary,Intellectual Disability,Transportation,LifeCare Homes,2023-12-03,2024-05-14,57525.04,Other,Completed
+CLT0738,Los Angeles,20,Male,Down Syndrome,Day Program,ABC Care Services,2023-03-23,2023-10-27,52643.12,Medicaid,Active
+CLT0739,North Bay,60,Female,Autism,Day Program,Sunrise Support,2023-04-07,2024-03-25,28210.74,Federal,Active
+CLT0740,Central Valley,53,Female,Autism,Day Program,Safe Haven Homes,2023-07-13,2023-10-16,55077.66,State,Paused
+CLT0741,Orange County,6,Non-Binary,Autism,Transportation,Sunrise Support,2024-03-23,2024-11-12,32867.21,Other,Completed
+CLT0742,Central Valley,18,Female,Autism,Day Program,Sunrise Support,2025-01-10,2025-09-29,47884.21,State,Paused
+CLT0743,Orange County,53,Male,Autism,Transportation,Safe Haven Homes,2024-08-23,2024-08-29,44291.03,Medicaid,Active
+CLT0744,Central Valley,16,Male,Cerebral Palsy,Transportation,MobilityX,2022-06-27,2022-07-08,17391.61,Other,Completed
+CLT0745,Orange County,15,Male,Autism,Transportation,ABC Care Services,2025-01-04,2025-09-22,14277.72,Other,Completed
+CLT0746,San Diego,13,Non-Binary,Cerebral Palsy,Transportation,Sunrise Support,2025-03-11,2025-09-01,26413.22,Other,Active
+CLT0747,Los Angeles,49,Female,Intellectual Disability,Day Program,ABC Care Services,2025-04-18,2025-10-22,9269.65,Other,Completed
+CLT0748,San Diego,43,Male,Cerebral Palsy,Transportation,Sunrise Support,2024-08-17,2025-06-27,43721.02,State,Completed
+CLT0749,Central Valley,41,Non-Binary,Autism,Residential,LifeCare Homes,2025-02-22,2025-12-04,7191.27,Other,Active
+CLT0750,Central Valley,7,Male,Cerebral Palsy,Day Program,LifeCare Homes,2023-02-18,2023-03-16,59542.99,Federal,Completed
+CLT0751,North Bay,52,Male,Down Syndrome,Residential,Sunrise Support,2023-12-24,2024-08-14,4499.4,Federal,Completed
+CLT0752,North Bay,9,Female,Autism,Day Program,Safe Haven Homes,2024-11-20,2025-11-15,36278.35,State,Completed
+CLT0753,Los Angeles,15,Non-Binary,Down Syndrome,Residential,ABC Care Services,2024-11-24,2025-07-06,49285.94,Other,Active
+CLT0754,San Diego,43,Male,Autism,Residential,ABC Care Services,2025-04-23,2025-07-14,5885.31,Federal,Completed
+CLT0755,Orange County,6,Female,Autism,Transportation,ABC Care Services,2022-12-24,2023-02-04,44676.32,Medicaid,Completed
+CLT0756,San Diego,49,Female,Down Syndrome,Day Program,LifeCare Homes,2025-03-20,2025-06-01,51892.14,Other,Completed
+CLT0757,Orange County,40,Female,Cerebral Palsy,Day Program,ABC Care Services,2023-06-24,2023-11-15,36946.9,Medicaid,Paused
+CLT0758,Los Angeles,34,Female,Intellectual Disability,Transportation,Sunrise Support,2024-10-18,2025-06-29,54095.27,Other,Paused
+CLT0759,Central Valley,4,Male,Intellectual Disability,Residential,LifeCare Homes,2023-11-01,2024-03-12,50112.27,State,Paused
+CLT0760,Central Valley,15,Male,Autism,Transportation,LifeCare Homes,2024-12-09,2025-11-02,45616.33,Medicaid,Completed
+CLT0761,Orange County,64,Male,Intellectual Disability,Residential,MobilityX,2024-03-02,2024-03-08,57936.66,State,Active
+CLT0762,Orange County,51,Non-Binary,Cerebral Palsy,Transportation,Sunrise Support,2024-03-17,2024-09-20,27211.72,Other,Paused
+CLT0763,San Diego,26,Non-Binary,Autism,Transportation,MobilityX,2025-01-19,2025-10-04,23238.63,State,Completed
+CLT0764,North Bay,30,Male,Autism,Residential,LifeCare Homes,2023-07-28,2023-10-28,34248.61,Medicaid,Completed
+CLT0765,Orange County,44,Male,Cerebral Palsy,Residential,MobilityX,2024-10-19,2024-12-18,44218.81,Medicaid,Completed
+CLT0766,Orange County,42,Non-Binary,Cerebral Palsy,Residential,MobilityX,2023-12-02,2024-08-12,35298.41,Other,Completed
+CLT0767,North Bay,55,Male,Autism,Residential,Sunrise Support,2024-07-22,2025-04-01,20343.73,State,Active
+CLT0768,Los Angeles,32,Non-Binary,Intellectual Disability,Day Program,MobilityX,2024-05-24,2025-03-04,17452.38,State,Completed
+CLT0769,North Bay,38,Male,Cerebral Palsy,Day Program,Sunrise Support,2023-12-26,2024-05-04,29482.59,Other,Completed
+CLT0770,Central Valley,34,Male,Down Syndrome,Transportation,LifeCare Homes,2023-10-31,2024-08-16,54431.32,Other,Paused
+CLT0771,Central Valley,43,Female,Down Syndrome,Residential,ABC Care Services,2023-03-22,2023-09-16,46014.54,State,Completed
+CLT0772,Los Angeles,12,Male,Autism,Day Program,Sunrise Support,2022-06-12,2022-08-04,49930.89,Medicaid,Completed
+CLT0773,Orange County,5,Female,Intellectual Disability,Day Program,Sunrise Support,2025-02-22,2025-02-23,37928.53,Medicaid,Paused
+CLT0774,Orange County,32,Non-Binary,Autism,Transportation,MobilityX,2022-09-15,2023-08-15,8270.17,Medicaid,Active
+CLT0775,Los Angeles,34,Non-Binary,Down Syndrome,Day Program,LifeCare Homes,2024-07-26,2025-01-25,41289.68,Other,Paused
+CLT0776,Orange County,19,Male,Intellectual Disability,Transportation,Sunrise Support,2022-05-28,2022-06-05,14142.8,Other,Active
+CLT0777,Orange County,3,Male,Cerebral Palsy,Residential,ABC Care Services,2025-01-29,2025-04-01,47163.59,Federal,Paused
+CLT0778,San Diego,58,Female,Down Syndrome,Day Program,LifeCare Homes,2024-05-23,2024-08-21,3353.82,State,Paused
+CLT0779,San Diego,54,Non-Binary,Cerebral Palsy,Day Program,ABC Care Services,2022-10-05,2023-10-01,52469.3,Medicaid,Paused
+CLT0780,North Bay,47,Female,Down Syndrome,Residential,Sunrise Support,2022-07-31,2023-02-06,36132.78,Other,Active
+CLT0781,Orange County,30,Female,Down Syndrome,Day Program,MobilityX,2023-12-09,2024-05-15,6048.82,Other,Active
+CLT0782,Orange County,59,Non-Binary,Autism,Residential,Sunrise Support,2024-03-02,2024-09-06,57196.29,Medicaid,Completed
+CLT0783,Orange County,51,Female,Cerebral Palsy,Transportation,MobilityX,2024-11-24,2025-07-11,29327.65,State,Active
+CLT0784,Los Angeles,43,Non-Binary,Cerebral Palsy,Transportation,MobilityX,2024-09-19,2025-04-25,23578.08,State,Completed
+CLT0785,Los Angeles,24,Male,Down Syndrome,Day Program,MobilityX,2023-10-25,2024-03-10,23447.07,Other,Active
+CLT0786,North Bay,6,Non-Binary,Intellectual Disability,Day Program,MobilityX,2022-11-10,2023-08-14,12907.25,Other,Active
+CLT0787,Central Valley,24,Non-Binary,Cerebral Palsy,Residential,Sunrise Support,2023-05-01,2023-12-03,32961.58,State,Completed
+CLT0788,North Bay,34,Non-Binary,Intellectual Disability,Residential,MobilityX,2023-08-09,2024-04-07,39259.24,Medicaid,Active
+CLT0789,Orange County,42,Female,Intellectual Disability,Day Program,LifeCare Homes,2023-12-19,2024-02-23,40145.45,State,Paused
+CLT0790,North Bay,49,Female,Autism,Transportation,MobilityX,2022-09-08,2022-12-06,26008.12,Other,Completed
+CLT0791,North Bay,39,Female,Cerebral Palsy,Residential,Sunrise Support,2023-03-29,2023-05-08,11657.99,Other,Completed
+CLT0792,North Bay,22,Female,Cerebral Palsy,Day Program,ABC Care Services,2024-07-13,2024-11-06,46295.72,State,Paused
+CLT0793,San Diego,57,Female,Autism,Transportation,MobilityX,2024-02-18,2025-01-06,42763.24,State,Completed
+CLT0794,Los Angeles,34,Female,Cerebral Palsy,Residential,MobilityX,2022-12-20,2023-03-14,12598.29,Federal,Completed
+CLT0795,San Diego,53,Non-Binary,Intellectual Disability,Transportation,MobilityX,2024-10-11,2024-10-23,5487.12,Medicaid,Completed
+CLT0796,Orange County,31,Non-Binary,Cerebral Palsy,Transportation,LifeCare Homes,2025-02-17,2025-11-22,46302.59,Other,Active
+CLT0797,North Bay,16,Male,Intellectual Disability,Day Program,MobilityX,2022-05-24,2022-11-02,50236.66,Medicaid,Paused
+CLT0798,Central Valley,48,Male,Intellectual Disability,Residential,MobilityX,2024-06-26,2025-05-10,37424.08,State,Completed
+CLT0799,San Diego,60,Male,Cerebral Palsy,Residential,MobilityX,2023-01-23,2023-07-03,57112.36,Medicaid,Paused
+CLT0800,Los Angeles,27,Non-Binary,Autism,Day Program,ABC Care Services,2025-05-11,2025-08-13,12490.95,Medicaid,Active
+CLT0801,San Diego,45,Male,Down Syndrome,Transportation,ABC Care Services,2024-01-20,2024-12-11,55437.61,State,Active
+CLT0802,Central Valley,33,Female,Intellectual Disability,Residential,Sunrise Support,2024-08-14,2024-12-11,20953.79,Federal,Paused
+CLT0803,San Diego,36,Female,Down Syndrome,Day Program,Safe Haven Homes,2023-12-27,2024-05-26,14221.35,Medicaid,Active
+CLT0804,Los Angeles,33,Female,Down Syndrome,Transportation,ABC Care Services,2022-08-13,2022-11-14,51330.34,Other,Active
+CLT0805,Orange County,9,Female,Intellectual Disability,Day Program,LifeCare Homes,2025-05-21,2025-08-30,13117.11,Other,Completed
+CLT0806,San Diego,28,Non-Binary,Autism,Residential,Sunrise Support,2023-09-27,2023-12-26,24138.37,Federal,Completed
+CLT0807,North Bay,33,Male,Down Syndrome,Day Program,Sunrise Support,2022-08-28,2023-02-24,43507.13,State,Paused
+CLT0808,Orange County,38,Male,Down Syndrome,Residential,MobilityX,2022-07-01,2023-05-24,35741.04,State,Paused
+CLT0809,San Diego,9,Non-Binary,Autism,Residential,Safe Haven Homes,2022-07-15,2022-12-09,28220.66,Federal,Paused
+CLT0810,Central Valley,18,Non-Binary,Autism,Day Program,MobilityX,2022-07-26,2022-12-28,19484.1,State,Completed
+CLT0811,Los Angeles,65,Male,Autism,Residential,Safe Haven Homes,2023-03-20,2024-01-05,40897.62,Federal,Completed
+CLT0812,San Diego,42,Non-Binary,Down Syndrome,Transportation,Sunrise Support,2024-05-05,2024-09-13,34977.74,Federal,Active
+CLT0813,Central Valley,28,Female,Intellectual Disability,Transportation,Sunrise Support,2023-12-10,2024-05-05,22007.14,State,Active
+CLT0814,Los Angeles,40,Non-Binary,Down Syndrome,Day Program,ABC Care Services,2022-12-28,2023-02-21,20221.37,Medicaid,Completed
+CLT0815,Los Angeles,10,Male,Down Syndrome,Residential,ABC Care Services,2022-10-06,2023-07-03,32290.91,Medicaid,Active
+CLT0816,North Bay,38,Non-Binary,Autism,Residential,MobilityX,2025-01-15,2025-06-07,20885.34,State,Paused
+CLT0817,Central Valley,6,Female,Down Syndrome,Transportation,ABC Care Services,2023-12-31,2024-01-07,15716.07,Other,Completed
+CLT0818,Los Angeles,50,Non-Binary,Cerebral Palsy,Transportation,MobilityX,2023-05-05,2024-03-27,3893.17,Medicaid,Paused
+CLT0819,Central Valley,42,Female,Autism,Transportation,ABC Care Services,2022-09-19,2023-04-25,16107.91,Federal,Completed
+CLT0820,Central Valley,29,Female,Down Syndrome,Residential,Sunrise Support,2024-04-12,2024-06-22,43882.17,Other,Active
+CLT0821,San Diego,55,Female,Down Syndrome,Residential,ABC Care Services,2023-08-17,2023-11-12,25800.81,Medicaid,Active
+CLT0822,Central Valley,31,Non-Binary,Autism,Day Program,ABC Care Services,2022-12-31,2023-08-24,10584.21,Other,Completed
+CLT0823,Central Valley,63,Female,Intellectual Disability,Day Program,Safe Haven Homes,2023-03-25,2023-06-11,53518.17,Other,Paused
+CLT0824,San Diego,18,Male,Down Syndrome,Transportation,ABC Care Services,2023-04-01,2024-03-27,46056.82,State,Paused
+CLT0825,North Bay,52,Male,Autism,Residential,ABC Care Services,2023-02-16,2023-02-18,18765.57,State,Paused
+CLT0826,Los Angeles,17,Female,Intellectual Disability,Residential,MobilityX,2024-10-28,2025-09-20,57034.05,Medicaid,Active
+CLT0827,Central Valley,23,Male,Autism,Transportation,LifeCare Homes,2025-02-05,2025-11-06,34404.11,Federal,Completed
+CLT0828,Orange County,32,Female,Intellectual Disability,Transportation,MobilityX,2022-12-02,2023-05-20,19903.82,State,Active
+CLT0829,Orange County,27,Female,Cerebral Palsy,Residential,Sunrise Support,2024-06-16,2024-12-26,27470.98,Other,Paused
+CLT0830,North Bay,51,Female,Cerebral Palsy,Transportation,Sunrise Support,2023-08-24,2024-07-20,36104.9,Federal,Completed
+CLT0831,Orange County,58,Female,Autism,Transportation,Sunrise Support,2024-11-13,2025-01-18,37741.42,Medicaid,Active
+CLT0832,North Bay,60,Non-Binary,Down Syndrome,Day Program,Sunrise Support,2022-10-10,2022-12-18,31575.42,Federal,Paused
+CLT0833,Central Valley,36,Male,Down Syndrome,Residential,Safe Haven Homes,2023-12-28,2024-08-29,23626.45,Federal,Paused
+CLT0834,San Diego,19,Male,Down Syndrome,Day Program,LifeCare Homes,2023-11-01,2024-01-10,21548.23,State,Paused
+CLT0835,Orange County,26,Non-Binary,Cerebral Palsy,Day Program,Safe Haven Homes,2025-01-28,2025-10-25,11645.63,State,Active
+CLT0836,Central Valley,25,Non-Binary,Cerebral Palsy,Day Program,MobilityX,2024-07-12,2024-10-23,54358.76,Other,Active
+CLT0837,Los Angeles,6,Non-Binary,Intellectual Disability,Residential,Sunrise Support,2024-05-31,2024-10-22,58279.21,Federal,Active
+CLT0838,North Bay,65,Male,Down Syndrome,Residential,Safe Haven Homes,2024-01-12,2024-03-05,25961.52,State,Completed
+CLT0839,North Bay,45,Male,Intellectual Disability,Day Program,LifeCare Homes,2024-10-12,2025-07-17,22069.6,Federal,Paused
+CLT0840,North Bay,36,Male,Intellectual Disability,Day Program,ABC Care Services,2023-09-26,2024-09-12,6369.33,Other,Paused
+CLT0841,Orange County,45,Female,Autism,Residential,Safe Haven Homes,2022-12-20,2023-04-09,55958.58,Medicaid,Paused
+CLT0842,Los Angeles,8,Non-Binary,Cerebral Palsy,Day Program,ABC Care Services,2023-11-05,2024-02-07,57835.81,Medicaid,Active
+CLT0843,North Bay,6,Non-Binary,Autism,Transportation,ABC Care Services,2023-05-26,2024-03-01,21695.8,Federal,Paused
+CLT0844,San Diego,38,Female,Intellectual Disability,Transportation,Sunrise Support,2022-07-07,2023-05-15,10054.65,State,Paused
+CLT0845,San Diego,58,Female,Down Syndrome,Day Program,MobilityX,2023-11-14,2023-11-16,14775.8,Medicaid,Active
+CLT0846,North Bay,33,Female,Autism,Transportation,Sunrise Support,2025-02-12,2025-09-22,21798.75,Other,Active
+CLT0847,San Diego,60,Male,Autism,Transportation,LifeCare Homes,2024-03-11,2024-05-11,55267.79,Federal,Active
+CLT0848,Los Angeles,10,Female,Cerebral Palsy,Residential,ABC Care Services,2024-10-14,2025-03-28,3389.74,Medicaid,Completed
+CLT0849,North Bay,49,Male,Intellectual Disability,Residential,ABC Care Services,2024-07-06,2024-10-08,55118.26,Other,Paused
+CLT0850,Los Angeles,4,Non-Binary,Down Syndrome,Transportation,Sunrise Support,2024-10-18,2025-06-23,13852.95,State,Completed
+CLT0851,Orange County,6,Female,Intellectual Disability,Transportation,MobilityX,2023-06-19,2024-06-08,13071.78,Other,Active
+CLT0852,Central Valley,57,Female,Cerebral Palsy,Transportation,MobilityX,2023-11-17,2024-02-17,22091.82,Federal,Completed
+CLT0853,Orange County,29,Female,Down Syndrome,Day Program,MobilityX,2023-08-06,2024-02-14,56382.38,Medicaid,Completed
+CLT0854,San Diego,15,Female,Autism,Residential,MobilityX,2023-06-01,2024-01-29,34689.54,State,Completed
+CLT0855,North Bay,60,Female,Autism,Day Program,Sunrise Support,2023-02-07,2023-09-24,50978.39,State,Paused
+CLT0856,Orange County,17,Non-Binary,Intellectual Disability,Day Program,MobilityX,2022-06-20,2022-12-05,12519.04,Other,Paused
+CLT0857,Central Valley,51,Male,Down Syndrome,Transportation,LifeCare Homes,2022-08-25,2023-05-29,40256.85,Medicaid,Active
+CLT0858,Los Angeles,58,Non-Binary,Intellectual Disability,Residential,ABC Care Services,2024-01-14,2024-11-16,50188.17,Federal,Active
+CLT0859,Central Valley,62,Non-Binary,Cerebral Palsy,Day Program,MobilityX,2023-11-24,2024-02-18,10096.49,Medicaid,Active
+CLT0860,North Bay,58,Female,Down Syndrome,Residential,Safe Haven Homes,2023-02-08,2023-09-02,8573.09,State,Paused
+CLT0861,San Diego,11,Non-Binary,Cerebral Palsy,Residential,LifeCare Homes,2024-03-27,2024-04-28,54497.44,Other,Completed
+CLT0862,Orange County,33,Male,Intellectual Disability,Day Program,ABC Care Services,2024-02-01,2024-08-10,15359.35,Medicaid,Active
+CLT0863,San Diego,48,Male,Intellectual Disability,Residential,ABC Care Services,2025-02-05,2026-01-08,47521,State,Active
+CLT0864,Los Angeles,39,Female,Intellectual Disability,Day Program,Sunrise Support,2023-03-19,2023-11-06,31238.35,Medicaid,Active
+CLT0865,North Bay,55,Female,Autism,Day Program,LifeCare Homes,2024-11-30,2024-12-19,52077.14,Medicaid,Paused
+CLT0866,North Bay,27,Female,Cerebral Palsy,Day Program,Sunrise Support,2023-03-07,2023-08-17,29905.26,Federal,Active
+CLT0867,Central Valley,27,Male,Down Syndrome,Transportation,LifeCare Homes,2023-12-08,2024-05-07,35332.54,Medicaid,Paused
+CLT0868,Los Angeles,23,Female,Cerebral Palsy,Residential,Safe Haven Homes,2023-01-08,2023-04-01,8001.74,State,Completed
+CLT0869,San Diego,12,Non-Binary,Intellectual Disability,Transportation,Safe Haven Homes,2024-03-29,2024-09-12,44818.16,Other,Completed
+CLT0870,Orange County,24,Non-Binary,Down Syndrome,Day Program,Safe Haven Homes,2024-09-14,2025-02-01,43715.71,State,Paused
+CLT0871,North Bay,42,Male,Cerebral Palsy,Residential,Sunrise Support,2023-08-17,2024-05-24,35090.95,Other,Paused
+CLT0872,Central Valley,42,Non-Binary,Intellectual Disability,Day Program,LifeCare Homes,2024-02-24,2024-03-08,16065.35,Medicaid,Active
+CLT0873,San Diego,5,Non-Binary,Intellectual Disability,Day Program,Safe Haven Homes,2023-05-22,2023-08-07,5491.61,State,Paused
+CLT0874,Los Angeles,15,Male,Autism,Residential,LifeCare Homes,2023-07-28,2024-01-11,42128.02,State,Paused
+CLT0875,Central Valley,24,Female,Intellectual Disability,Residential,LifeCare Homes,2022-07-06,2022-09-24,19366.33,Federal,Active
+CLT0876,Orange County,46,Male,Down Syndrome,Day Program,ABC Care Services,2024-10-14,2025-06-10,11312.39,Medicaid,Completed
+CLT0877,Los Angeles,36,Female,Down Syndrome,Transportation,MobilityX,2024-10-21,2024-11-04,10440.16,State,Active
+CLT0878,Central Valley,36,Female,Cerebral Palsy,Residential,Sunrise Support,2024-02-19,2024-06-13,21967.32,Medicaid,Active
+CLT0879,Central Valley,35,Male,Intellectual Disability,Day Program,ABC Care Services,2024-03-26,2024-04-11,15088.11,State,Active
+CLT0880,North Bay,37,Female,Down Syndrome,Day Program,ABC Care Services,2022-09-08,2023-01-28,9161.82,Medicaid,Active
+CLT0881,Orange County,52,Female,Autism,Residential,Sunrise Support,2024-09-24,2024-11-29,35077.38,Other,Active
+CLT0882,North Bay,43,Female,Down Syndrome,Day Program,Sunrise Support,2024-02-06,2024-11-01,48688.41,Medicaid,Paused
+CLT0883,San Diego,54,Male,Cerebral Palsy,Day Program,Sunrise Support,2024-05-01,2024-07-28,11076.81,Medicaid,Completed
+CLT0884,North Bay,17,Male,Autism,Transportation,ABC Care Services,2024-08-05,2024-11-01,17995.26,Other,Paused
+CLT0885,San Diego,39,Female,Autism,Transportation,Sunrise Support,2024-05-26,2025-02-10,19416.56,Federal,Completed
+CLT0886,Los Angeles,62,Female,Intellectual Disability,Transportation,MobilityX,2022-09-03,2022-10-28,25960.39,State,Active
+CLT0887,North Bay,33,Female,Autism,Day Program,Safe Haven Homes,2024-12-07,2025-05-06,17276.58,State,Paused
+CLT0888,Orange County,4,Male,Autism,Transportation,Safe Haven Homes,2023-10-05,2023-12-13,28978.28,Federal,Completed
+CLT0889,Orange County,23,Female,Cerebral Palsy,Residential,ABC Care Services,2024-12-06,2025-08-02,32521.56,Other,Completed
+CLT0890,Orange County,45,Female,Intellectual Disability,Transportation,Safe Haven Homes,2024-08-26,2024-12-26,59890.89,Medicaid,Paused
+CLT0891,Orange County,42,Male,Autism,Residential,Safe Haven Homes,2022-10-19,2023-04-26,58579.43,Medicaid,Completed
+CLT0892,Los Angeles,6,Non-Binary,Down Syndrome,Day Program,MobilityX,2024-05-28,2024-06-04,30510.93,Medicaid,Completed
+CLT0893,Orange County,37,Male,Intellectual Disability,Residential,Safe Haven Homes,2023-08-11,2024-03-11,9451.73,Medicaid,Paused
+CLT0894,San Diego,30,Male,Intellectual Disability,Transportation,ABC Care Services,2025-02-18,2025-03-13,19133.82,Other,Completed
+CLT0895,Orange County,24,Female,Down Syndrome,Residential,MobilityX,2024-02-26,2025-01-15,56633.43,State,Paused
+CLT0896,Los Angeles,7,Male,Cerebral Palsy,Residential,Sunrise Support,2024-02-05,2024-07-12,50132.84,State,Completed
+CLT0897,San Diego,55,Non-Binary,Cerebral Palsy,Transportation,Safe Haven Homes,2023-01-01,2023-12-16,4101.27,Federal,Completed
+CLT0898,San Diego,40,Non-Binary,Down Syndrome,Transportation,Sunrise Support,2024-01-15,2024-10-19,43035.72,State,Active
+CLT0899,San Diego,24,Female,Down Syndrome,Residential,ABC Care Services,2023-06-10,2023-08-27,40531.3,Federal,Completed
+CLT0900,Los Angeles,41,Female,Cerebral Palsy,Day Program,Sunrise Support,2022-11-26,2023-02-04,25960.79,State,Completed
+CLT0901,Orange County,36,Non-Binary,Autism,Residential,Sunrise Support,2023-06-05,2023-08-22,11577.81,State,Paused
+CLT0902,Central Valley,34,Male,Autism,Residential,Safe Haven Homes,2024-05-18,2024-11-01,13229.79,Other,Completed
+CLT0903,Orange County,60,Male,Autism,Day Program,Safe Haven Homes,2025-05-10,2026-04-05,12897.46,Federal,Completed
+CLT0904,San Diego,16,Male,Autism,Transportation,Safe Haven Homes,2022-05-30,2022-06-25,40685.61,Other,Completed
+CLT0905,Orange County,17,Male,Intellectual Disability,Residential,Safe Haven Homes,2023-08-30,2024-06-27,32903.67,Medicaid,Active
+CLT0906,San Diego,10,Female,Down Syndrome,Residential,Safe Haven Homes,2023-08-13,2024-01-06,33658.19,Federal,Completed
+CLT0907,Los Angeles,30,Non-Binary,Autism,Transportation,Safe Haven Homes,2024-02-06,2024-02-23,5158.43,Other,Active
+CLT0908,Orange County,10,Non-Binary,Intellectual Disability,Day Program,Safe Haven Homes,2024-08-15,2025-03-25,7469.62,Medicaid,Paused
+CLT0909,San Diego,19,Non-Binary,Autism,Residential,LifeCare Homes,2024-12-01,2025-09-14,33251.74,Federal,Active
+CLT0910,Los Angeles,58,Male,Autism,Transportation,Safe Haven Homes,2023-01-04,2023-09-20,35615.29,Other,Active
+CLT0911,San Diego,49,Female,Down Syndrome,Day Program,MobilityX,2025-02-25,2025-06-16,7488.42,State,Paused
+CLT0912,Central Valley,50,Male,Down Syndrome,Day Program,MobilityX,2024-03-09,2025-02-25,39881.81,Other,Paused
+CLT0913,San Diego,33,Female,Down Syndrome,Transportation,Sunrise Support,2024-07-29,2025-01-01,32028.62,Medicaid,Active
+CLT0914,Central Valley,19,Non-Binary,Down Syndrome,Day Program,MobilityX,2023-11-18,2024-08-18,13512.16,Medicaid,Completed
+CLT0915,Orange County,48,Female,Intellectual Disability,Day Program,Safe Haven Homes,2022-06-05,2023-01-06,47567.9,Other,Completed
+CLT0916,Orange County,15,Male,Cerebral Palsy,Day Program,ABC Care Services,2024-08-01,2024-10-08,50193.56,Federal,Completed
+CLT0917,San Diego,25,Non-Binary,Cerebral Palsy,Day Program,ABC Care Services,2023-03-12,2024-02-15,11955.05,State,Paused
+CLT0918,Los Angeles,16,Male,Autism,Residential,ABC Care Services,2024-09-16,2024-12-04,31491.26,State,Paused
+CLT0919,Los Angeles,24,Non-Binary,Autism,Transportation,LifeCare Homes,2023-03-19,2024-02-15,46939.73,Medicaid,Active
+CLT0920,Los Angeles,57,Male,Autism,Day Program,ABC Care Services,2023-05-23,2023-10-13,44107.91,Other,Paused
+CLT0921,Orange County,16,Female,Cerebral Palsy,Day Program,ABC Care Services,2025-03-25,2025-12-10,12706.97,Medicaid,Active
+CLT0922,Orange County,29,Female,Cerebral Palsy,Transportation,Sunrise Support,2022-07-23,2023-01-17,53626.66,Medicaid,Paused
+CLT0923,North Bay,15,Female,Down Syndrome,Residential,Safe Haven Homes,2023-07-31,2024-04-24,12597.01,Other,Active
+CLT0924,Central Valley,56,Female,Autism,Transportation,Sunrise Support,2024-02-27,2024-12-24,39473.29,Federal,Paused
+CLT0925,Orange County,37,Non-Binary,Intellectual Disability,Transportation,MobilityX,2024-07-01,2024-12-31,58855.67,Federal,Paused
+CLT0926,North Bay,14,Male,Autism,Residential,Sunrise Support,2023-04-28,2023-12-06,6178.43,Federal,Active
+CLT0927,Orange County,3,Male,Down Syndrome,Day Program,LifeCare Homes,2025-03-12,2026-02-19,26006.01,State,Paused
+CLT0928,Orange County,22,Non-Binary,Cerebral Palsy,Day Program,MobilityX,2022-08-06,2022-11-11,58089.74,Federal,Active
+CLT0929,Central Valley,36,Non-Binary,Cerebral Palsy,Residential,ABC Care Services,2024-05-04,2024-10-25,35072.65,Federal,Paused
+CLT0930,Orange County,4,Male,Autism,Residential,LifeCare Homes,2024-02-13,2024-03-25,27883.47,Other,Completed
+CLT0931,San Diego,30,Male,Down Syndrome,Residential,Sunrise Support,2024-08-18,2025-05-13,45963.95,Other,Paused
+CLT0932,Central Valley,3,Non-Binary,Autism,Residential,ABC Care Services,2024-11-16,2025-01-23,26726.41,Federal,Active
+CLT0933,Central Valley,51,Female,Autism,Day Program,Sunrise Support,2022-06-23,2023-02-24,49629.05,Federal,Paused
+CLT0934,Los Angeles,51,Male,Down Syndrome,Transportation,Safe Haven Homes,2025-02-06,2025-05-12,11761.73,Medicaid,Active
+CLT0935,San Diego,29,Female,Intellectual Disability,Day Program,Safe Haven Homes,2025-02-02,2025-04-18,8087.16,Other,Paused
+CLT0936,Orange County,60,Female,Down Syndrome,Day Program,Safe Haven Homes,2022-06-15,2023-05-31,25480.13,Other,Completed
+CLT0937,San Diego,19,Male,Cerebral Palsy,Transportation,Sunrise Support,2025-03-25,2025-12-09,40514.59,Medicaid,Completed
+CLT0938,San Diego,28,Female,Autism,Transportation,LifeCare Homes,2024-10-11,2025-03-03,33747.21,Federal,Active
+CLT0939,Central Valley,11,Non-Binary,Down Syndrome,Day Program,Sunrise Support,2023-02-16,2023-05-23,29830.56,Medicaid,Paused
+CLT0940,Los Angeles,16,Female,Autism,Residential,MobilityX,2022-11-21,2023-01-29,51017.58,Federal,Paused
+CLT0941,Orange County,23,Non-Binary,Down Syndrome,Day Program,MobilityX,2024-12-11,2025-03-23,58913.09,Medicaid,Active
+CLT0942,San Diego,4,Non-Binary,Autism,Transportation,Safe Haven Homes,2024-03-15,2025-02-01,41417.02,Other,Paused
+CLT0943,Orange County,60,Female,Cerebral Palsy,Transportation,Sunrise Support,2025-04-10,2025-08-05,7857.29,Federal,Active
+CLT0944,San Diego,11,Non-Binary,Cerebral Palsy,Day Program,Sunrise Support,2023-12-13,2024-04-08,23739.85,Federal,Paused
+CLT0945,Orange County,18,Female,Down Syndrome,Transportation,Safe Haven Homes,2025-05-01,2025-07-02,25663.99,Medicaid,Paused
+CLT0946,Central Valley,25,Male,Intellectual Disability,Day Program,Sunrise Support,2024-12-29,2025-05-03,18616.36,Federal,Completed
+CLT0947,Los Angeles,47,Non-Binary,Autism,Transportation,ABC Care Services,2024-09-25,2025-05-09,43470.06,Other,Paused
+CLT0948,North Bay,64,Male,Intellectual Disability,Day Program,Safe Haven Homes,2024-10-04,2024-10-18,59150.79,Federal,Completed
+CLT0949,San Diego,22,Male,Intellectual Disability,Residential,Safe Haven Homes,2025-04-05,2025-07-23,13469.2,State,Completed
+CLT0950,Orange County,42,Male,Cerebral Palsy,Transportation,LifeCare Homes,2024-11-10,2024-12-03,38400.64,Medicaid,Active
+CLT0951,Los Angeles,47,Female,Cerebral Palsy,Transportation,ABC Care Services,2024-03-21,2024-11-19,21113.27,Federal,Completed
+CLT0952,Los Angeles,7,Female,Autism,Day Program,ABC Care Services,2022-11-16,2023-01-06,38414.19,Medicaid,Completed
+CLT0953,San Diego,5,Male,Down Syndrome,Transportation,Sunrise Support,2023-03-10,2023-06-30,15727.54,Medicaid,Completed
+CLT0954,Orange County,56,Male,Cerebral Palsy,Transportation,Sunrise Support,2025-01-17,2025-05-15,53524.69,State,Paused
+CLT0955,North Bay,40,Female,Intellectual Disability,Day Program,MobilityX,2024-09-28,2025-03-25,51768.29,Other,Active
+CLT0956,Central Valley,56,Non-Binary,Autism,Residential,Safe Haven Homes,2024-04-30,2024-09-01,58424.13,State,Paused
+CLT0957,Central Valley,50,Male,Intellectual Disability,Day Program,Safe Haven Homes,2024-09-26,2024-11-01,49443.76,Medicaid,Completed
+CLT0958,North Bay,19,Non-Binary,Intellectual Disability,Day Program,Safe Haven Homes,2022-09-16,2022-10-08,26316.42,Other,Active
+CLT0959,San Diego,31,Male,Cerebral Palsy,Residential,ABC Care Services,2023-08-01,2023-10-24,35821.57,State,Completed
+CLT0960,Los Angeles,63,Non-Binary,Cerebral Palsy,Transportation,ABC Care Services,2024-11-12,2025-09-07,29649.07,State,Paused
+CLT0961,Orange County,10,Female,Autism,Transportation,Sunrise Support,2023-05-11,2024-03-29,47790.27,Other,Paused
+CLT0962,Central Valley,46,Male,Autism,Transportation,LifeCare Homes,2025-05-14,2026-04-02,7200.51,Other,Completed
+CLT0963,North Bay,38,Female,Autism,Transportation,Sunrise Support,2025-03-07,2025-06-13,55738.72,Medicaid,Completed
+CLT0964,San Diego,50,Male,Intellectual Disability,Transportation,Safe Haven Homes,2024-05-26,2025-03-25,31856.24,Other,Active
+CLT0965,San Diego,45,Female,Cerebral Palsy,Day Program,MobilityX,2024-03-26,2024-10-18,3426.23,Other,Active
+CLT0966,North Bay,57,Non-Binary,Cerebral Palsy,Residential,Safe Haven Homes,2024-12-16,2025-06-22,41054.33,Medicaid,Completed
+CLT0967,San Diego,24,Male,Cerebral Palsy,Transportation,Safe Haven Homes,2022-08-31,2022-11-01,10021.01,Other,Active
+CLT0968,Central Valley,3,Female,Cerebral Palsy,Transportation,MobilityX,2024-08-12,2025-01-19,33723.48,Other,Paused
+CLT0969,North Bay,15,Non-Binary,Down Syndrome,Residential,LifeCare Homes,2023-01-25,2023-11-22,4854.7,Medicaid,Completed
+CLT0970,North Bay,53,Non-Binary,Down Syndrome,Residential,ABC Care Services,2023-03-20,2023-12-26,17231.34,Medicaid,Completed
+CLT0971,Central Valley,10,Male,Cerebral Palsy,Residential,Sunrise Support,2025-03-19,2026-02-19,35398.76,State,Paused
+CLT0972,Orange County,60,Female,Autism,Day Program,Safe Haven Homes,2023-05-05,2024-02-24,17968.78,State,Paused
+CLT0973,San Diego,45,Male,Intellectual Disability,Residential,MobilityX,2024-06-25,2025-01-07,54620.69,Medicaid,Active
+CLT0974,Orange County,41,Non-Binary,Down Syndrome,Residential,Sunrise Support,2023-04-03,2023-04-12,28354.71,Other,Active
+CLT0975,San Diego,31,Female,Autism,Transportation,ABC Care Services,2024-08-17,2024-10-01,19581.17,Federal,Completed
+CLT0976,Orange County,6,Non-Binary,Intellectual Disability,Day Program,Safe Haven Homes,2025-03-07,2025-08-29,14248.9,State,Paused
+CLT0977,Orange County,47,Non-Binary,Down Syndrome,Residential,ABC Care Services,2024-04-03,2024-04-23,27086.41,State,Paused
+CLT0978,North Bay,40,Female,Cerebral Palsy,Day Program,Safe Haven Homes,2024-09-04,2025-01-07,20311.31,Other,Paused
+CLT0979,Orange County,65,Female,Cerebral Palsy,Transportation,Sunrise Support,2024-05-15,2024-08-29,41160.94,State,Active
+CLT0980,Central Valley,51,Non-Binary,Down Syndrome,Day Program,ABC Care Services,2023-03-02,2024-01-11,16315.27,Federal,Active
+CLT0981,San Diego,23,Female,Cerebral Palsy,Day Program,LifeCare Homes,2024-12-19,2025-12-17,29558.17,Federal,Completed
+CLT0982,Orange County,43,Non-Binary,Autism,Transportation,Safe Haven Homes,2023-05-17,2023-06-15,5853.23,Other,Completed
+CLT0983,Orange County,44,Female,Down Syndrome,Transportation,MobilityX,2023-01-28,2023-03-08,8139.43,Medicaid,Completed
+CLT0984,San Diego,39,Female,Intellectual Disability,Residential,Safe Haven Homes,2024-01-24,2024-03-14,19737.89,Other,Active
+CLT0985,Los Angeles,59,Male,Autism,Transportation,MobilityX,2022-07-10,2023-02-22,37511.22,Other,Paused
+CLT0986,Orange County,54,Male,Intellectual Disability,Transportation,ABC Care Services,2024-04-29,2025-02-16,49482.81,Other,Active
+CLT0987,Orange County,25,Male,Autism,Transportation,Sunrise Support,2022-06-12,2023-03-30,16211.64,Federal,Completed
+CLT0988,North Bay,16,Female,Autism,Residential,Safe Haven Homes,2023-07-29,2023-11-11,19992.97,Federal,Paused
+CLT0989,North Bay,39,Female,Down Syndrome,Transportation,Safe Haven Homes,2025-02-16,2025-06-26,54960.6,Medicaid,Paused
+CLT0990,North Bay,46,Non-Binary,Cerebral Palsy,Day Program,Safe Haven Homes,2025-01-14,2025-04-18,9854.49,State,Active
+CLT0991,Orange County,27,Non-Binary,Down Syndrome,Day Program,Sunrise Support,2023-10-11,2024-08-10,17807.68,Medicaid,Paused
+CLT0992,North Bay,46,Non-Binary,Intellectual Disability,Transportation,Safe Haven Homes,2022-12-14,2022-12-31,7644.2,State,Paused
+CLT0993,Orange County,41,Male,Down Syndrome,Transportation,LifeCare Homes,2025-03-19,2025-12-04,40062.34,Federal,Paused
+CLT0994,Los Angeles,5,Non-Binary,Cerebral Palsy,Transportation,LifeCare Homes,2022-08-26,2023-03-03,38289.25,Medicaid,Active
+CLT0995,Los Angeles,13,Male,Intellectual Disability,Residential,MobilityX,2022-06-07,2023-03-27,14418.2,Other,Active
+CLT0996,Orange County,43,Non-Binary,Cerebral Palsy,Residential,MobilityX,2023-12-30,2024-02-05,18226.72,Medicaid,Completed
+CLT0997,Orange County,33,Male,Down Syndrome,Residential,MobilityX,2024-01-18,2024-08-27,26594.64,Other,Paused
+CLT0998,Central Valley,15,Female,Intellectual Disability,Transportation,Safe Haven Homes,2023-08-12,2024-05-04,55551.54,Other,Active
+CLT0999,San Diego,40,Male,Down Syndrome,Day Program,Safe Haven Homes,2022-11-09,2023-03-29,21341.87,Other,Completed
